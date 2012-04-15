@@ -224,3 +224,11 @@ let g:EchoFuncKeyNext='<c-j>'
 "let g:C_MapLeader=","
 set fdm=marker
 set bs=2
+
+
+
+
+
+
+
+
