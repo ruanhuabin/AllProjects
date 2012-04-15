@@ -958,3 +958,4 @@ int CALLBACK WinMain(HINSTANCE hInst, HINSTANCE hPreInst,
 }
 
 /* cflags: flag.=' -mwindows -static' : */
+new add line
