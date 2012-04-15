@@ -1,0 +1,10 @@
+Vi will, by default, expect a tag file by the name "tags" in the current directory. Once the tag file is built, the following commands exercise the tag indexing feature:
+
+
+vi −t tag Start and position the cursor at the file and line where "tag" is defined.
+
+:ta tag Find a tag.
+
+Ctrl-] Find the tag under the cursor.
+
+ctrl-T Return to previous location before jump to tag (not widely iMACMVplemented).

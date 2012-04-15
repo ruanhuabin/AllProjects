@@ -1,0 +1,94 @@
+*SingleCompile.txt*
+
+File: SingleCompile.vim
+Version: 0.1.2
+Author: Hong Xu(xuphys AT gmail DOT com)
+Last Change: 6 June 2010
+Description: Let user compile or run a single source file conveniently.
+License: You can redistribute this plugin and/or modify it under the terms 
+         of the GNU General Public License as published by the Free Software 
+         Foundation; either version 2, or any later version. 
+
+                                            *SingleCompile*
+Commands:
+    :SingleCompile
+    If you are editing a source file of a compiling language such as C, java,
+this command will compile the file which you are editing now. If you are 
+editing a source file of a interpreted language such as shell language, this
+command will run the file which you are editing.
+                                            *SingleCompileRun*
+Commands:
+    :SingleCompileRun
+    If you are editing a source file of a compiling language such as C, java,
+this command will compile the file which you are editing now and run the
+executable; if you are editing a source file of a interpreted language such as
+shell language, this command will run the source file you are editing. That
+means, it is nothing different between :SingleCompile and :SingleCompileRun
+for a interpreted language source file.
+
+                                            *SingleCompile-settings*
+----------------------------------------------------------------------------
+                                            *SingleCompile-autowrite*
+    If you don't want to save your file automatically when you use
+"SingleCompiling" command or "SingleCompileRun" command, add the following
+line to your vimrc:
+>
+ let g:SingleCompile_autowrite = 0
+<
+----------------------------------------------------------------------------
+                                            *SingleCompile-key-mapping*
+    I recommend you copy the following two lines about key mapping to your 
+vimrc:
+>
+ nmap <F9> :SingleCompile<cr>
+ nmap <S-F9> :SingleCompileRun<cr>
+<
+
+                                          *SingleCompile-add-your-language*
+There are only a few built-in languages. See |SingleCompile-built-in-language|
+for the language list. To add a language, you should add the following to your
+vimrc:
+>
+ let g:SingleCompile_templates['filetype']={}
+ let g:SingleCompile_templates['filetype']['command']='stringA'
+ let g:SingleCompile_templates['filetype']['flags']='stringB'
+ let g:SingleCompile_templates['filetype']['run']='stringC'
+<
+ For compiling languages such as C, Java, stringA is the command of compiling,
+stringB is the flags of compiling, stringC is the command of running; For
+interpreted languages such as UNIX shell, dos batch, stringA is the command of
+interpreting, stringB is the flags of interpreting, stringC should be set to
+be empty. 
+
+The following are three examples of adding languages:
+>
+ let g:SingleCompile_templates['c']={}
+ let g:SingleCompile_templates['c']['command']='cc'
+ let g:SingleCompile_templates['c']['flags']='-o %<'
+ let g:SingleCompile_templates['c']['run']='./%<'
+
+ let g:SingleCompile_templates['sh']={}
+ let g:SingleCompile_templates['sh']['command']='sh'
+ let g:SingleCompile_templates['sh']['flags']=''
+ let g:SingleCompile_templates['sh']['run']=''
+
+ let g:SingleCompile_templates['dosbatch']={}
+ let g:SingleCompile_templates['dosbatch']['command']=''
+ let g:SingleCompile_templates['dosbatch']['flags']=''
+ let g:SingleCompile_templates['dosbatch']['run']=''
+<
+    You can also use this method to modify the templates of a built-in
+language. For example, you can change 'cc' to 'gcc' in the example above to
+modify the built-in c language template.
+
+                                            *SingleCompile-built-in-language*
+    The following languages are built-in in this plugin:
+    C, C++, Java, sh(UNIX shell),dos batch
+    See |SingleCompile-add-your-language| to extend your language.
+    
+                                            *SingleCompile-installation*
+    Download the SingleCompile.zip file and extract it to your vim runtime
+directory(~/.vim on linux and $VIM_INSTALLATION_FOLDER\vimfiles on windows),
+the plugin is installed correctly in this way.
+
+vim:ts=4:ft=help:tw=78

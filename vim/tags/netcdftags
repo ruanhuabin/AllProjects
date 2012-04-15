@@ -1,0 +1,1382 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Bad	netcdfcpp.h	/^        Bad$/;"	e	enum:NcFile::FillMode
+BadFormat	netcdfcpp.h	/^       BadFormat$/;"	e	enum:NcFile::FileFormat
+Behavior	netcdfcpp.h	/^    enum Behavior {$/;"	g	class:NcError	access:public
+CF_AXIS	libcf.h	42;"	d
+CF_BYTE_MAX	libcf.h	109;"	d
+CF_BYTE_MIN	libcf.h	108;"	d
+CF_CHAR_MAX	libcf.h	111;"	d
+CF_CHAR_MIN	libcf.h	110;"	d
+CF_COMMENT	libcf.h	127;"	d
+CF_CONVENTIONS	libcf.h	121;"	d
+CF_CONVENTION_STRING	libcf.h	122;"	d
+CF_COORDINATES	libcf.h	135;"	d
+CF_DOUBLE_MAX	libcf.h	119;"	d
+CF_DOUBLE_MIN	libcf.h	118;"	d
+CF_DOWN	libcf.h	44;"	d
+CF_EBADFT	libcf.h	88;"	d
+CF_EBADRANGE	libcf.h	93;"	d
+CF_EBADTYPE	libcf.h	77;"	d
+CF_EBADVALUE	libcf.h	86;"	d
+CF_EEXISTS	libcf.h	83;"	d
+CF_EINVAL	libcf.h	78;"	d
+CF_EMAXCOORDS	libcf.h	90;"	d
+CF_EMAXFT	libcf.h	87;"	d
+CF_EMAX_NAME	libcf.h	89;"	d
+CF_EMINMAX	libcf.h	81;"	d
+CF_ENDIMS	libcf.h	92;"	d
+CF_ENETCDF	libcf.h	79;"	d
+CF_ENODIM	libcf.h	85;"	d
+CF_ENOMEM	libcf.h	76;"	d
+CF_ENOTFOUND	libcf.h	84;"	d
+CF_ERECTOOLARGE	libcf.h	91;"	d
+CF_ETIME	libcf.h	80;"	d
+CF_EUNKCOORD	libcf.h	82;"	d
+CF_FILL_VALUE	libcf.h	132;"	d
+CF_FLOAT_MAX	libcf.h	117;"	d
+CF_FLOAT_MIN	libcf.h	116;"	d
+CF_FORMULA_TERMS	libcf.h	41;"	d
+CF_HISTORY	libcf.h	124;"	d
+CF_INSTITUTION	libcf.h	125;"	d
+CF_INT_MAX	libcf.h	115;"	d
+CF_INT_MIN	libcf.h	114;"	d
+CF_LATITUDE_AXIS	libcf.h	37;"	d
+CF_LATITUDE_NAME	libcf.h	33;"	d
+CF_LATITUDE_UNITS	libcf.h	35;"	d
+CF_LEVEL_AXIS	libcf.h	38;"	d
+CF_LONGITUDE_AXIS	libcf.h	36;"	d
+CF_LONGITUDE_NAME	libcf.h	32;"	d
+CF_LONGITUDE_UNITS	libcf.h	34;"	d
+CF_LONG_NAME	libcf.h	130;"	d
+CF_MAX_COORDS	libcf.h	56;"	d
+CF_MAX_COORD_LEN	libcf.h	57;"	d
+CF_MAX_FT_LEN	libcf.h	53;"	d
+CF_MAX_FT_VARS	libcf.h	52;"	d
+CF_MAX_LEN	libcf.h	46;"	d
+CF_NOERR	libcf.h	75;"	d
+CF_NUM_VERT	libcf.h	184;"	d
+CF_POSITIVE	libcf.h	45;"	d
+CF_REFERENCES	libcf.h	128;"	d
+CF_SHORT_MAX	libcf.h	113;"	d
+CF_SHORT_MIN	libcf.h	112;"	d
+CF_SOURCE	libcf.h	126;"	d
+CF_STANDARD_NAME	libcf.h	131;"	d
+CF_TIME_AXIS	libcf.h	39;"	d
+CF_TITLE	libcf.h	123;"	d
+CF_UNITS	libcf.h	129;"	d
+CF_UNITS	libcf.h	40;"	d
+CF_UP	libcf.h	43;"	d
+CF_VALID_MAX	libcf.h	134;"	d
+CF_VALID_MIN	libcf.h	133;"	d
+CF_VERT_ATM_LN	libcf.h	139;"	d
+CF_VERT_HYBRID_HEIGHT	libcf.h	154;"	d
+CF_VERT_HYBRID_SIGMA	libcf.h	149;"	d
+CF_VERT_OCEAN_DBL_SIGMA	libcf.h	179;"	d
+CF_VERT_OCEAN_S	libcf.h	169;"	d
+CF_VERT_OCEAN_SIGMA	libcf.h	164;"	d
+CF_VERT_OCEAN_SIGMA_Z	libcf.h	174;"	d
+CF_VERT_SIGMA	libcf.h	144;"	d
+CF_VERT_SLEVE	libcf.h	159;"	d
+COORDINATE_AXES	libcf.h	23;"	d
+COORDINATE_AXIS_TYPE	libcf.h	22;"	d
+COORDINATE_SYSTEMS	libcf.h	27;"	d
+COORDINATE_TRANSFORMS	libcf.h	30;"	d
+COORDINATE_Z_IS_POSITIVE	libcf.h	24;"	d
+Classic	netcdfcpp.h	/^       Classic,         \/\/ netCDF classic format (i.e. version 1 format)$/;"	e	enum:NcFile::FileFormat
+Clobber	netcdfcpp.h	132;"	d
+DIM_WITHOUT_VARIABLE	netcdf.h	327;"	d
+EXTERNL	netcdf.h	352;"	d
+FILL_BYTE	netcdf.h	1661;"	d
+FILL_CHAR	netcdf.h	1662;"	d
+FILL_DOUBLE	netcdf.h	1666;"	d
+FILL_FLOAT	netcdf.h	1665;"	d
+FILL_LONG	ncvalues.h	27;"	d
+FILL_LONG	netcdf.h	1664;"	d
+FILL_SHORT	netcdf.h	1663;"	d
+FT_ATM_LN_FORMAT	libcf.h	141;"	d
+FT_ATM_LN_TERMS	libcf.h	142;"	d
+FT_HYBRID_HEIGHT_FORMAT	libcf.h	156;"	d
+FT_HYBRID_HEIGHT_TERMS	libcf.h	157;"	d
+FT_HYBRID_SIGMA_FORMAT	libcf.h	151;"	d
+FT_HYBRID_SIGMA_TERMS	libcf.h	152;"	d
+FT_MAX_TERMS	libcf.h	185;"	d
+FT_OCEAN_DBL_SIGMA_FORMAT	libcf.h	181;"	d
+FT_OCEAN_DBL_SIGMA_TERMS	libcf.h	182;"	d
+FT_OCEAN_SIGMA_FORMAT	libcf.h	166;"	d
+FT_OCEAN_SIGMA_TERMS	libcf.h	167;"	d
+FT_OCEAN_SIGMA_Z_FORMAT	libcf.h	176;"	d
+FT_OCEAN_SIGMA_Z_TERMS	libcf.h	177;"	d
+FT_OCEAN_S_FORMAT	libcf.h	171;"	d
+FT_OCEAN_S_TERMS	libcf.h	172;"	d
+FT_SIGMA_FORMAT	libcf.h	146;"	d
+FT_SIGMA_TERMS	libcf.h	147;"	d
+FT_SLEVE_FORMAT	libcf.h	161;"	d
+FT_SLEVE_TERMS	libcf.h	162;"	d
+FileFormat	netcdfcpp.h	/^    enum FileFormat {$/;"	g	class:NcFile	access:public
+FileMode	netcdfcpp.h	/^    enum FileMode {$/;"	g	class:NcFile	access:public
+Fill	netcdfcpp.h	/^        Fill = NC_FILL,                    \/\/ prefill (default)$/;"	e	enum:NcFile::FillMode
+FillMode	netcdfcpp.h	/^    enum FillMode {$/;"	g	class:NcFile	access:public
+MAX_NC_ATTRS	netcdf.h	1669;"	d
+MAX_NC_DIMS	netcdf.h	1668;"	d
+MAX_NC_NAME	netcdf.h	1671;"	d
+MAX_NC_VARS	netcdf.h	1670;"	d
+MAX_VAR_DIMS	netcdf.h	1672;"	d
+MSC_EXTRA	netcdf.h	341;"	d
+MSC_EXTRA	netcdf.h	343;"	d
+MSC_EXTRA	netcdf.h	349;"	d
+NC2_ERR	netcdf.h	239;"	d
+NC4_FIRST_ERROR	netcdf.h	294;"	d
+NC4_LAST_ERROR	netcdf.h	323;"	d
+NCCF_GEOX	libcf.h	63;"	d
+NCCF_GEOY	libcf.h	64;"	d
+NCCF_GEOZ	libcf.h	65;"	d
+NCCF_HEIGHT_DOWN	libcf.h	67;"	d
+NCCF_HEIGHT_UP	libcf.h	66;"	d
+NCCF_LATITUDE	libcf.h	61;"	d
+NCCF_LONGITUDE	libcf.h	62;"	d
+NCCF_NOAXISTYPE	libcf.h	60;"	d
+NCCF_PRESSURE	libcf.h	68;"	d
+NCCF_RADAZ	libcf.h	70;"	d
+NCCF_RADDIST	libcf.h	72;"	d
+NCCF_RADEL	libcf.h	71;"	d
+NCCF_TIME	libcf.h	69;"	d
+NCINT_MAX	ncvalues.h	190;"	d
+NCINT_MIN	ncvalues.h	189;"	d
+NCLONG_MAX	ncvalues.h	200;"	d
+NCLONG_MIN	ncvalues.h	199;"	d
+NC_64BIT_OFFSET	netcdf.h	143;"	d
+NC_ALIGN_CHUNK	netcdf.h	180;"	d
+NC_BYTE	netcdf.h	53;"	d
+NC_CHAR	netcdf.h	54;"	d
+NC_CHUNKED	netcdf.h	212;"	d
+NC_CLASSIC_MODEL	netcdf.h	145;"	d
+NC_CLOBBER	netcdf.h	141;"	d
+NC_COLLECTIVE	netcdf.h	389;"	d
+NC_COMPOUND	netcdf.h	72;"	d
+NC_COMPOUND_OFFSET	netcdf.h	542;"	d
+NC_CONTIGUOUS	netcdf.h	213;"	d
+NC_DOUBLE	netcdf.h	59;"	d
+NC_EATTEXISTS	netcdf.h	304;"	d
+NC_EATTMETA	netcdf.h	301;"	d
+NC_EAXISTYPE	netcdf.h	277;"	d
+NC_EBADCHUNK	netcdf.h	321;"	d
+NC_EBADCLASS	netcdf.h	314;"	d
+NC_EBADDIM	netcdf.h	253;"	d
+NC_EBADFIELD	netcdf.h	313;"	d
+NC_EBADGRPID	netcdf.h	310;"	d
+NC_EBADID	netcdf.h	240;"	d
+NC_EBADNAME	netcdf.h	266;"	d
+NC_EBADTYPE	netcdf.h	252;"	d
+NC_EBADTYPID	netcdf.h	311;"	d
+NC_ECANTCREATE	netcdf.h	298;"	d
+NC_ECANTREAD	netcdf.h	296;"	d
+NC_ECANTWRITE	netcdf.h	297;"	d
+NC_ECHAR	netcdf.h	263;"	d
+NC_ECURL	netcdf.h	281;"	d
+NC_EDAP	netcdf.h	280;"	d
+NC_EDAPCONSTRAINT	netcdf.h	289;"	d
+NC_EDAPSVC	netcdf.h	284;"	d
+NC_EDAPURL	netcdf.h	288;"	d
+NC_EDAS	netcdf.h	285;"	d
+NC_EDATADDS	netcdf.h	287;"	d
+NC_EDDS	netcdf.h	286;"	d
+NC_EDIMMETA	netcdf.h	300;"	d
+NC_EDIMSCALE	netcdf.h	318;"	d
+NC_EDIMSIZE	netcdf.h	274;"	d
+NC_EEDGE	netcdf.h	264;"	d
+NC_EEXIST	netcdf.h	242;"	d
+NC_EFILEMETA	netcdf.h	299;"	d
+NC_EGLOBAL	netcdf.h	257;"	d
+NC_EHDFERR	netcdf.h	295;"	d
+NC_EINDEFINE	netcdf.h	246;"	d
+NC_EINVAL	netcdf.h	243;"	d
+NC_EINVALCOORDS	netcdf.h	247;"	d
+NC_EIO	netcdf.h	282;"	d
+NC_ELATEDEF	netcdf.h	317;"	d
+NC_ELATEFILL	netcdf.h	316;"	d
+NC_EMAPTYPE	netcdf.h	315;"	d
+NC_EMAXATTS	netcdf.h	251;"	d
+NC_EMAXDIMS	netcdf.h	248;"	d
+NC_EMAXNAME	netcdf.h	260;"	d
+NC_EMAXVARS	netcdf.h	255;"	d
+NC_ENAMEINUSE	netcdf.h	249;"	d
+NC_ENDIAN_BIG	netcdf.h	207;"	d
+NC_ENDIAN_LITTLE	netcdf.h	206;"	d
+NC_ENDIAN_NATIVE	netcdf.h	205;"	d
+NC_ENFILE	netcdf.h	241;"	d
+NC_ENOCOMPOUND	netcdf.h	303;"	d
+NC_ENODATA	netcdf.h	283;"	d
+NC_ENOGRP	netcdf.h	319;"	d
+NC_ENOMEM	netcdf.h	270;"	d
+NC_ENOPAR	netcdf.h	308;"	d
+NC_ENORECVARS	netcdf.h	262;"	d
+NC_ENOTATT	netcdf.h	250;"	d
+NC_ENOTBUILT	netcdf.h	322;"	d
+NC_ENOTINDEFINE	netcdf.h	245;"	d
+NC_ENOTNC	netcdf.h	258;"	d
+NC_ENOTNC3	netcdf.h	307;"	d
+NC_ENOTNC4	netcdf.h	305;"	d
+NC_ENOTVAR	netcdf.h	256;"	d
+NC_ENTOOL	netcdf.h	1680;"	d
+NC_ENUM	netcdf.h	71;"	d
+NC_EPARINIT	netcdf.h	309;"	d
+NC_EPERM	netcdf.h	244;"	d
+NC_ERANGE	netcdf.h	269;"	d
+NC_ESTORAGE	netcdf.h	320;"	d
+NC_ESTRICTNC3	netcdf.h	306;"	d
+NC_ESTRIDE	netcdf.h	265;"	d
+NC_ESTS	netcdf.h	259;"	d
+NC_ETRUNC	netcdf.h	275;"	d
+NC_ETYPDEFINED	netcdf.h	312;"	d
+NC_EUNLIMIT	netcdf.h	261;"	d
+NC_EUNLIMPOS	netcdf.h	254;"	d
+NC_EVARMETA	netcdf.h	302;"	d
+NC_EVARSIZE	netcdf.h	272;"	d
+NC_EXDR	netcdf.h	1681;"	d
+NC_FATAL	ncvalues.h	29;"	d
+NC_FATAL	netcdf.h	1688;"	d
+NC_FILL	netcdf.h	129;"	d
+NC_FILL_BYTE	netcdf.h	80;"	d
+NC_FILL_CHAR	netcdf.h	81;"	d
+NC_FILL_DOUBLE	netcdf.h	85;"	d
+NC_FILL_FLOAT	netcdf.h	84;"	d
+NC_FILL_INT	netcdf.h	83;"	d
+NC_FILL_INT64	netcdf.h	89;"	d
+NC_FILL_SHORT	netcdf.h	82;"	d
+NC_FILL_STRING	netcdf.h	91;"	d
+NC_FILL_UBYTE	netcdf.h	86;"	d
+NC_FILL_UINT	netcdf.h	88;"	d
+NC_FILL_UINT64	netcdf.h	90;"	d
+NC_FILL_USHORT	netcdf.h	87;"	d
+NC_FLETCHER32	netcdf.h	220;"	d
+NC_FLOAT	netcdf.h	58;"	d
+NC_FORMAT_64BIT	netcdf.h	167;"	d
+NC_FORMAT_CLASSIC	netcdf.h	166;"	d
+NC_FORMAT_NETCDF4	netcdf.h	168;"	d
+NC_FORMAT_NETCDF4_CLASSIC	netcdf.h	169;"	d
+NC_GLOBAL	netcdf.h	190;"	d
+NC_HAVE_NEW_CHUNKING_API	netcdf.h	331;"	d
+NC_INDEPENDENT	netcdf.h	388;"	d
+NC_INT	netcdf.h	56;"	d
+NC_INT64	netcdf.h	63;"	d
+NC_ISSYSERR	netcdf.h	235;"	d
+NC_LOCK	netcdf.h	159;"	d
+NC_LONG	ncvalues.h	26;"	d
+NC_LONG	netcdf.h	57;"	d
+NC_MAX_ATTRS	netcdf.h	198;"	d
+NC_MAX_BYTE	netcdf.h	100;"	d
+NC_MAX_CHAR	netcdf.h	102;"	d
+NC_MAX_DIMS	netcdf.h	197;"	d
+NC_MAX_DOUBLE	netcdf.h	109;"	d
+NC_MAX_FLOAT	netcdf.h	107;"	d
+NC_MAX_INT	netcdf.h	105;"	d
+NC_MAX_INT64	netcdf.h	114;"	d
+NC_MAX_NAME	netcdf.h	200;"	d
+NC_MAX_SHORT	netcdf.h	103;"	d
+NC_MAX_UBYTE	netcdf.h	111;"	d
+NC_MAX_UINT	netcdf.h	113;"	d
+NC_MAX_UINT64	netcdf.h	116;"	d
+NC_MAX_USHORT	netcdf.h	112;"	d
+NC_MAX_VARS	netcdf.h	199;"	d
+NC_MAX_VAR_DIMS	netcdf.h	201;"	d
+NC_MIN_BYTE	netcdf.h	101;"	d
+NC_MIN_DOUBLE	netcdf.h	110;"	d
+NC_MIN_FLOAT	netcdf.h	108;"	d
+NC_MIN_INT	netcdf.h	106;"	d
+NC_MIN_INT64	netcdf.h	115;"	d
+NC_MIN_SHORT	netcdf.h	104;"	d
+NC_MPIIO	netcdf.h	151;"	d
+NC_MPIPOSIX	netcdf.h	152;"	d
+NC_NAT	netcdf.h	52;"	d
+NC_NETCDF4	netcdf.h	144;"	d
+NC_NOCHECKSUM	netcdf.h	219;"	d
+NC_NOCLOBBER	netcdf.h	142;"	d
+NC_NOERR	netcdf.h	237;"	d
+NC_NOFILL	netcdf.h	130;"	d
+NC_NOSHUFFLE	netcdf.h	226;"	d
+NC_NOWRITE	netcdf.h	135;"	d
+NC_OPAQUE	netcdf.h	70;"	d
+NC_PNETCDF	netcdf.h	153;"	d
+NC_SHARE	netcdf.h	150;"	d
+NC_SHORT	netcdf.h	55;"	d
+NC_SHUFFLE	netcdf.h	227;"	d
+NC_SIZEHINT_DEFAULT	netcdf.h	175;"	d
+NC_STRING	netcdf.h	65;"	d
+NC_SYSERR	netcdf.h	1682;"	d
+NC_TURN_OFF_LOGGING	netcdf.h	1599;"	d
+NC_UBYTE	netcdf.h	60;"	d
+NC_UINT	netcdf.h	62;"	d
+NC_UINT64	netcdf.h	64;"	d
+NC_UNLIMITED	netcdf.h	185;"	d
+NC_UNSPECIFIED	ncvalues.h	22;"	d
+NC_USHORT	netcdf.h	61;"	d
+NC_VERBOSE	ncvalues.h	30;"	d
+NC_VERBOSE	netcdf.h	1689;"	d
+NC_VLEN	netcdf.h	69;"	d
+NC_WRITE	netcdf.h	136;"	d
+NETCDF_HH	netcdfcpp.h	11;"	d
+NcAtt	netcdfcpp.h	/^    NcAtt( NcFile*, NcToken); \/\/ global attribute$/;"	p	class:NcAtt	access:private	signature:( NcFile*, NcToken)
+NcAtt	netcdfcpp.h	/^    NcAtt( NcFile*, const NcVar*, NcToken);$/;"	p	class:NcAtt	access:private	signature:( NcFile*, const NcVar*, NcToken)
+NcAtt	netcdfcpp.h	/^class NcAtt : public NcTypedComponent$/;"	c	inherits:NcTypedComponent
+NcAtt	netcdfcpp.h	/^class NcAtt;                    \/\/ attributes$/;"	x
+NcAtt::NcAtt	netcdfcpp.h	/^    NcAtt( NcFile*, NcToken); \/\/ global attribute$/;"	p	class:NcAtt	access:private	signature:( NcFile*, NcToken)
+NcAtt::NcAtt	netcdfcpp.h	/^    NcAtt( NcFile*, const NcVar*, NcToken);$/;"	p	class:NcAtt	access:private	signature:( NcFile*, const NcVar*, NcToken)
+NcAtt::NcFile	netcdfcpp.h	/^  friend class NcFile;$/;"	x
+NcAtt::NcVar::get_att	netcdfcpp.h	/^  friend NcAtt* NcVar::get_att( NcToken ) const;$/;"	p	class:NcAtt::NcVar	access:friend	signature:( NcToken ) const
+NcAtt::is_valid	netcdfcpp.h	/^    NcBool is_valid( void ) const;$/;"	p	class:NcAtt	access:public	signature:( void ) const
+NcAtt::name	netcdfcpp.h	/^    NcToken name( void ) const;$/;"	p	class:NcAtt	access:public	signature:( void ) const
+NcAtt::num_vals	netcdfcpp.h	/^    long num_vals( void ) const; $/;"	p	class:NcAtt	access:public	signature:( void ) const
+NcAtt::remove	netcdfcpp.h	/^    NcBool remove( void );$/;"	p	class:NcAtt	access:public	signature:( void )
+NcAtt::rename	netcdfcpp.h	/^    NcBool rename( NcToken newname );$/;"	p	class:NcAtt	access:public	signature:( NcToken newname )
+NcAtt::the_name	netcdfcpp.h	/^    char* the_name;$/;"	m	class:NcAtt	access:private
+NcAtt::the_variable	netcdfcpp.h	/^    const NcVar* the_variable;$/;"	m	class:NcAtt	access:private
+NcAtt::type	netcdfcpp.h	/^    NcType type( void ) const;$/;"	p	class:NcAtt	access:public	signature:( void ) const
+NcAtt::values	netcdfcpp.h	/^    NcValues* values( void ) const;$/;"	p	class:NcAtt	access:public	signature:( void ) const
+NcAtt::~NcAtt	netcdfcpp.h	/^    virtual ~NcAtt( void );$/;"	p	class:NcAtt	access:public	signature:( void )
+NcBool	netcdfcpp.h	/^typedef unsigned int NcBool;    \/\/ many members return 0 on failure$/;"	t
+NcDim	netcdfcpp.h	/^    NcDim(NcFile*, NcToken name, long sz); \/\/ defines a new dim$/;"	p	class:NcDim	access:private	signature:(NcFile*, NcToken name, long sz)
+NcDim	netcdfcpp.h	/^    NcDim(NcFile*, int num);	\/\/ existing dimension$/;"	p	class:NcDim	access:private	signature:(NcFile*, int num)
+NcDim	netcdfcpp.h	/^class NcDim$/;"	c
+NcDim	netcdfcpp.h	/^class NcDim;                    \/\/ dimensions$/;"	x
+NcDim::NcDim	netcdfcpp.h	/^    NcDim(NcFile*, NcToken name, long sz); \/\/ defines a new dim$/;"	p	class:NcDim	access:private	signature:(NcFile*, NcToken name, long sz)
+NcDim::NcDim	netcdfcpp.h	/^    NcDim(NcFile*, int num);	\/\/ existing dimension$/;"	p	class:NcDim	access:private	signature:(NcFile*, int num)
+NcDim::NcFile	netcdfcpp.h	/^    friend class NcFile;$/;"	x
+NcDim::id	netcdfcpp.h	/^    int id( void ) const;$/;"	p	class:NcDim	access:public	signature:( void ) const
+NcDim::is_unlimited	netcdfcpp.h	/^    NcBool is_unlimited( void ) const;$/;"	p	class:NcDim	access:public	signature:( void ) const
+NcDim::is_valid	netcdfcpp.h	/^    NcBool is_valid( void ) const;$/;"	p	class:NcDim	access:public	signature:( void ) const
+NcDim::name	netcdfcpp.h	/^    NcToken name( void ) const;$/;"	p	class:NcDim	access:public	signature:( void ) const
+NcDim::rename	netcdfcpp.h	/^    NcBool rename( NcToken newname );$/;"	p	class:NcDim	access:public	signature:( NcToken newname )
+NcDim::size	netcdfcpp.h	/^    long size( void ) const;$/;"	p	class:NcDim	access:public	signature:( void ) const
+NcDim::sync	netcdfcpp.h	/^    NcBool sync( void );$/;"	p	class:NcDim	access:public	signature:( void )
+NcDim::the_file	netcdfcpp.h	/^    NcFile *the_file;		\/\/ not const because of rename$/;"	m	class:NcDim	access:private
+NcDim::the_id	netcdfcpp.h	/^    int the_id;$/;"	m	class:NcDim	access:private
+NcDim::the_name	netcdfcpp.h	/^    char *the_name;$/;"	m	class:NcDim	access:private
+NcDim::~NcDim	netcdfcpp.h	/^    virtual ~NcDim( void );$/;"	p	class:NcDim	access:private	signature:( void )
+NcError	netcdfcpp.h	/^    NcError( Behavior b = verbose_fatal );$/;"	p	class:NcError	access:public	signature:( Behavior b = verbose_fatal )
+NcError	netcdfcpp.h	/^class NcError {$/;"	c
+NcError::Behavior	netcdfcpp.h	/^    enum Behavior {$/;"	g	class:NcError	access:public
+NcError::NcError	netcdfcpp.h	/^    NcError( Behavior b = verbose_fatal );$/;"	p	class:NcError	access:public	signature:( Behavior b = verbose_fatal )
+NcError::get_err	netcdfcpp.h	/^    int get_err( void );                 \/\/ returns most recent error number$/;"	p	class:NcError	access:public	signature:( void )
+NcError::get_errmsg	netcdfcpp.h	/^    const char* get_errmsg( void ) {return nc_strerror(get_err());}$/;"	f	class:NcError	access:public	signature:( void )
+NcError::ncerr	netcdfcpp.h	/^    static int ncerr;$/;"	m	class:NcError	access:private
+NcError::ncopts	netcdfcpp.h	/^    static int ncopts;$/;"	m	class:NcError	access:private
+NcError::set_err	netcdfcpp.h	/^    static int set_err( int err );$/;"	p	class:NcError	access:public	signature:( int err )
+NcError::silent_fatal	netcdfcpp.h	/^        silent_fatal = 1,$/;"	e	enum:NcError::Behavior
+NcError::silent_nonfatal	netcdfcpp.h	/^        silent_nonfatal = 0,$/;"	e	enum:NcError::Behavior
+NcError::the_old_err	netcdfcpp.h	/^    int the_old_err;$/;"	m	class:NcError	access:private
+NcError::the_old_state	netcdfcpp.h	/^    int the_old_state;$/;"	m	class:NcError	access:private
+NcError::verbose_fatal	netcdfcpp.h	/^        verbose_fatal = 3   $/;"	e	enum:NcError::Behavior
+NcError::verbose_nonfatal	netcdfcpp.h	/^        verbose_nonfatal = 2,$/;"	e	enum:NcError::Behavior
+NcError::~NcError	netcdfcpp.h	/^    virtual ~NcError( void );$/;"	p	class:NcError	access:public	signature:( void )
+NcFile	netcdfcpp.h	/^    NcFile( const char * path, FileMode = ReadOnly ,$/;"	p	class:NcFile	access:public	signature:( const char * path, FileMode = ReadOnly , size_t *bufrsizeptr = NULL, size_t initialsize = 0, FileFormat = Classic )
+NcFile	netcdfcpp.h	/^    friend class NcFile;$/;"	x
+NcFile	netcdfcpp.h	/^  friend class NcFile;$/;"	x
+NcFile	netcdfcpp.h	/^class NcFile$/;"	c
+NcFile::Bad	netcdfcpp.h	/^        Bad$/;"	e	enum:NcFile::FillMode
+NcFile::BadFormat	netcdfcpp.h	/^       BadFormat$/;"	e	enum:NcFile::FileFormat
+NcFile::Classic	netcdfcpp.h	/^       Classic,         \/\/ netCDF classic format (i.e. version 1 format)$/;"	e	enum:NcFile::FileFormat
+NcFile::FileFormat	netcdfcpp.h	/^    enum FileFormat {$/;"	g	class:NcFile	access:public
+NcFile::FileMode	netcdfcpp.h	/^    enum FileMode {$/;"	g	class:NcFile	access:public
+NcFile::Fill	netcdfcpp.h	/^        Fill = NC_FILL,                    \/\/ prefill (default)$/;"	e	enum:NcFile::FillMode
+NcFile::FillMode	netcdfcpp.h	/^    enum FillMode {$/;"	g	class:NcFile	access:public
+NcFile::NcFile	netcdfcpp.h	/^    NcFile( const char * path, FileMode = ReadOnly ,$/;"	p	class:NcFile	access:public	signature:( const char * path, FileMode = ReadOnly , size_t *bufrsizeptr = NULL, size_t initialsize = 0, FileFormat = Classic )
+NcFile::Netcdf4	netcdfcpp.h	/^       Netcdf4,		\/\/ netCDF-4 using HDF5 format$/;"	e	enum:NcFile::FileFormat
+NcFile::Netcdf4Classic	netcdfcpp.h	/^       Netcdf4Classic,	\/\/ netCDF-4 using HDF5 format using only netCDF-3 calls$/;"	e	enum:NcFile::FileFormat
+NcFile::New	netcdfcpp.h	/^	New		\/\/ create new file, fail if already exists$/;"	e	enum:NcFile::FileMode
+NcFile::NoFill	netcdfcpp.h	/^        NoFill = NC_NOFILL,                \/\/ don't prefill$/;"	e	enum:NcFile::FillMode
+NcFile::Offset64Bits	netcdfcpp.h	/^       Offset64Bits,    \/\/ netCDF 64-bit offset format$/;"	e	enum:NcFile::FileFormat
+NcFile::ReadOnly	netcdfcpp.h	/^	ReadOnly,	\/\/ file exists, open read-only$/;"	e	enum:NcFile::FileMode
+NcFile::Replace	netcdfcpp.h	/^        Replace,	\/\/ create new file, even if already exists$/;"	e	enum:NcFile::FileMode
+NcFile::Write	netcdfcpp.h	/^	Write,		\/\/ file exists, open for writing$/;"	e	enum:NcFile::FileMode
+NcFile::abort	netcdfcpp.h	/^    NcBool abort( void );                  \/\/ back out of bad defines$/;"	p	class:NcFile	access:public	signature:( void )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, char );             \/\/ scalar attributes$/;"	p	class:NcFile	access:public	signature:( NcToken attname, char )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, const char*);       \/\/ string attribute$/;"	p	class:NcFile	access:public	signature:( NcToken attname, const char*)
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, double );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, double )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, float );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, float )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const char* ); \/\/ vector attributes$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const char* )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const double* );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const double* )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const float* );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const float* )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const int* );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const int* )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const long* );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const long* )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const ncbyte* );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const ncbyte* )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const short* );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const short* )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, long );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, long )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, ncbyte );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, ncbyte )
+NcFile::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, short );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, short )
+NcFile::add_dim	netcdfcpp.h	/^    virtual NcDim* add_dim( NcToken dimname );     \/\/ unlimited$/;"	p	class:NcFile	access:public	signature:( NcToken dimname )
+NcFile::add_dim	netcdfcpp.h	/^    virtual NcDim* add_dim( NcToken dimname, long dimsize );$/;"	p	class:NcFile	access:public	signature:( NcToken dimname, long dimsize )
+NcFile::add_var	netcdfcpp.h	/^    virtual NcVar* add_var( NcToken varname, NcType type,       \/\/ n-dim$/;"	p	class:NcFile	access:public	signature:( NcToken varname, NcType type, int ndims, const NcDim** dims )
+NcFile::add_var	netcdfcpp.h	/^    virtual NcVar* add_var( NcToken varname, NcType type,       \/\/ scalar$/;"	p	class:NcFile	access:public	signature:( NcToken varname, NcType type, const NcDim* dim0=0, const NcDim* dim1=0, const NcDim* dim2=0, const NcDim* dim3=0, const NcDim* dim4=0 )
+NcFile::close	netcdfcpp.h	/^    NcBool close( void );                  \/\/ to close earlier than dtr$/;"	p	class:NcFile	access:public	signature:( void )
+NcFile::data_mode	netcdfcpp.h	/^    NcBool data_mode( void );   \/\/ leaves in data mode, if possible$/;"	p	class:NcFile	access:public	signature:( void )
+NcFile::define_mode	netcdfcpp.h	/^    NcBool define_mode( void ); \/\/ leaves in define mode, if possible$/;"	p	class:NcFile	access:public	signature:( void )
+NcFile::dimensions	netcdfcpp.h	/^    NcDim** dimensions;$/;"	m	class:NcFile	access:protected
+NcFile::get_att	netcdfcpp.h	/^    NcAtt* get_att( NcToken ) const;       \/\/ global attribute by name$/;"	p	class:NcFile	access:public	signature:( NcToken ) const
+NcFile::get_att	netcdfcpp.h	/^    NcAtt* get_att( int ) const;           \/\/ n-th global attribute$/;"	p	class:NcFile	access:public	signature:( int ) const
+NcFile::get_dim	netcdfcpp.h	/^    NcDim* get_dim( NcToken ) const;       \/\/ dimension by name$/;"	p	class:NcFile	access:public	signature:( NcToken ) const
+NcFile::get_dim	netcdfcpp.h	/^    NcDim* get_dim( int ) const;           \/\/ n-th dimension$/;"	p	class:NcFile	access:public	signature:( int ) const
+NcFile::get_fill	netcdfcpp.h	/^    FillMode get_fill( void ) const;       \/\/ get fill-mode$/;"	p	class:NcFile	access:public	signature:( void ) const
+NcFile::get_format	netcdfcpp.h	/^    FileFormat get_format( void ) const;   \/\/ get format version$/;"	p	class:NcFile	access:public	signature:( void ) const
+NcFile::get_var	netcdfcpp.h	/^    NcVar* get_var( NcToken ) const;       \/\/ variable by name$/;"	p	class:NcFile	access:public	signature:( NcToken ) const
+NcFile::get_var	netcdfcpp.h	/^    NcVar* get_var( int ) const;           \/\/ n-th variable$/;"	p	class:NcFile	access:public	signature:( int ) const
+NcFile::globalv	netcdfcpp.h	/^    NcVar* globalv;             \/\/ "variable" for global attributes$/;"	m	class:NcFile	access:protected
+NcFile::id	netcdfcpp.h	/^    int id( void ) const;       \/\/ id used by C interface$/;"	p	class:NcFile	access:public	signature:( void ) const
+NcFile::in_define_mode	netcdfcpp.h	/^    int in_define_mode;$/;"	m	class:NcFile	access:protected
+NcFile::is_valid	netcdfcpp.h	/^    NcBool is_valid( void ) const;         \/\/ opened OK in ctr, still valid$/;"	p	class:NcFile	access:public	signature:( void ) const
+NcFile::num_atts	netcdfcpp.h	/^    int num_atts( void ) const;            \/\/ number of (global) attributes$/;"	p	class:NcFile	access:public	signature:( void ) const
+NcFile::num_dims	netcdfcpp.h	/^    int num_dims( void ) const;            \/\/ number of dimensions$/;"	p	class:NcFile	access:public	signature:( void ) const
+NcFile::num_vars	netcdfcpp.h	/^    int num_vars( void ) const;            \/\/ number of variables$/;"	p	class:NcFile	access:public	signature:( void ) const
+NcFile::rec_dim	netcdfcpp.h	/^    NcDim* rec_dim( void ) const;          \/\/ unlimited dimension, if any$/;"	p	class:NcFile	access:public	signature:( void ) const
+NcFile::set_fill	netcdfcpp.h	/^    NcBool set_fill( FillMode = Fill );    \/\/ set fill-mode$/;"	p	class:NcFile	access:public	signature:( FillMode = Fill )
+NcFile::sync	netcdfcpp.h	/^    NcBool sync( void );                   \/\/ synchronize to disk$/;"	p	class:NcFile	access:public	signature:( void )
+NcFile::the_fill_mode	netcdfcpp.h	/^    FillMode the_fill_mode;$/;"	m	class:NcFile	access:protected
+NcFile::the_id	netcdfcpp.h	/^    int the_id;$/;"	m	class:NcFile	access:protected
+NcFile::variables	netcdfcpp.h	/^    NcVar** variables;$/;"	m	class:NcFile	access:protected
+NcFile::~NcFile	netcdfcpp.h	/^    virtual ~NcFile( void );$/;"	p	class:NcFile	access:public	signature:( void )
+NcNewFile	netcdfcpp.h	131;"	d
+NcOldFile	netcdfcpp.h	130;"	d
+NcToken	netcdfcpp.h	/^typedef const char* NcToken;    \/\/ names for netCDF objects$/;"	t
+NcType	ncvalues.h	/^enum NcType $/;"	g
+NcTypeEnum	ncvalues.h	94;"	d
+NcTypedComponent	netcdfcpp.h	/^    NcTypedComponent( NcFile* );$/;"	p	class:NcTypedComponent	access:protected	signature:( NcFile* )
+NcTypedComponent	netcdfcpp.h	/^class NcTypedComponent$/;"	c
+NcTypedComponent::NcTypedComponent	netcdfcpp.h	/^    NcTypedComponent( NcFile* );$/;"	p	class:NcTypedComponent	access:protected	signature:( NcFile* )
+NcTypedComponent::as_char	netcdfcpp.h	/^    virtual char as_char( long n ) const;        \/\/ nth value as char$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+NcTypedComponent::as_double	netcdfcpp.h	/^    virtual double as_double( long n ) const;    \/\/ nth value as double$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+NcTypedComponent::as_float	netcdfcpp.h	/^    virtual float as_float( long n ) const;      \/\/ nth value as floating-point$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+NcTypedComponent::as_int	netcdfcpp.h	/^    virtual int as_int( long n ) const;	         \/\/ nth value as int$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+NcTypedComponent::as_long	netcdfcpp.h	/^    virtual long as_long( long n ) const;        \/\/ nth value as long$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+NcTypedComponent::as_ncbyte	netcdfcpp.h	/^    virtual ncbyte as_ncbyte( long n ) const;    \/\/ nth value as an unsgnd char$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+NcTypedComponent::as_nclong	netcdfcpp.h	/^    virtual int as_nclong( long n ) const;       \/\/ nth value as nclong (deprecated)$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+NcTypedComponent::as_short	netcdfcpp.h	/^    virtual short as_short( long n ) const;      \/\/ nth value as short$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+NcTypedComponent::as_string	netcdfcpp.h	/^    virtual char* as_string( long n ) const;     \/\/ nth value as string$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+NcTypedComponent::get_space	netcdfcpp.h	/^    virtual NcValues* get_space( long numVals = 0 ) const;  \/\/ to hold values$/;"	p	class:NcTypedComponent	access:protected	signature:( long numVals = 0 ) const
+NcTypedComponent::is_valid	netcdfcpp.h	/^    virtual NcBool is_valid( void ) const = 0;$/;"	p	class:NcTypedComponent	access:public	signature:( void ) const
+NcTypedComponent::name	netcdfcpp.h	/^    virtual NcToken name( void ) const = 0;$/;"	p	class:NcTypedComponent	access:public	signature:( void ) const
+NcTypedComponent::num_vals	netcdfcpp.h	/^    virtual long num_vals( void ) const = 0; $/;"	p	class:NcTypedComponent	access:public	signature:( void ) const
+NcTypedComponent::rename	netcdfcpp.h	/^    virtual NcBool rename( NcToken newname ) = 0;$/;"	p	class:NcTypedComponent	access:public	signature:( NcToken newname )
+NcTypedComponent::the_file	netcdfcpp.h	/^    NcFile *the_file;$/;"	m	class:NcTypedComponent	access:protected
+NcTypedComponent::type	netcdfcpp.h	/^    virtual NcType type( void ) const = 0;$/;"	p	class:NcTypedComponent	access:public	signature:( void ) const
+NcTypedComponent::values	netcdfcpp.h	/^    virtual NcValues* values( void ) const = 0; \/\/ block of all values$/;"	p	class:NcTypedComponent	access:public	signature:( void ) const
+NcTypedComponent::~NcTypedComponent	netcdfcpp.h	/^    virtual ~NcTypedComponent( void ) {}$/;"	f	class:NcTypedComponent	access:public	signature:( void )
+NcVal	ncvalues.h	65;"	d
+NcValues	ncvalues.h	/^    NcValues( void );$/;"	p	class:NcValues	access:public	signature:( void )
+NcValues	ncvalues.h	/^    NcValues(NcType, long);$/;"	p	class:NcValues	access:public	signature:(NcType, long)
+NcValues	ncvalues.h	/^class NcValues			\/\/ ABC for value blocks$/;"	c
+NcValues::NcValues	ncvalues.h	/^    NcValues( void );$/;"	p	class:NcValues	access:public	signature:( void )
+NcValues::NcValues	ncvalues.h	/^    NcValues(NcType, long);$/;"	p	class:NcValues	access:public	signature:(NcType, long)
+NcValues::as_char	ncvalues.h	/^    virtual char as_char( long n ) const = 0;     \/\/ nth value as char$/;"	p	class:NcValues	access:public	signature:( long n ) const
+NcValues::as_double	ncvalues.h	/^    virtual double as_double( long n ) const = 0; \/\/ nth value as double$/;"	p	class:NcValues	access:public	signature:( long n ) const
+NcValues::as_float	ncvalues.h	/^    virtual float as_float( long n ) const = 0;   \/\/ nth value as floating-point$/;"	p	class:NcValues	access:public	signature:( long n ) const
+NcValues::as_int	ncvalues.h	/^    virtual int    as_int( long n ) const = 0;    \/\/ nth value as int$/;"	p	class:NcValues	access:public	signature:( long n ) const
+NcValues::as_long	ncvalues.h	/^    virtual long as_long( long n ) const = 0;     \/\/ nth value as long$/;"	p	class:NcValues	access:public	signature:( long n ) const
+NcValues::as_ncbyte	ncvalues.h	/^    virtual ncbyte as_ncbyte( long n ) const = 0; \/\/ nth value as a byte$/;"	p	class:NcValues	access:public	signature:( long n ) const
+NcValues::as_nclong	ncvalues.h	/^    virtual int    as_nclong( long n ) const = 0; \/\/ nth value as nclong$/;"	p	class:NcValues	access:public	signature:( long n ) const
+NcValues::as_short	ncvalues.h	/^    virtual short as_short( long n ) const = 0;   \/\/ nth value as short$/;"	p	class:NcValues	access:public	signature:( long n ) const
+NcValues::as_string	ncvalues.h	/^    virtual char* as_string( long n ) const = 0;  \/\/ value as string$/;"	p	class:NcValues	access:public	signature:( long n ) const
+NcValues::base	ncvalues.h	/^    virtual void* base( void ) const = 0;$/;"	p	class:NcValues	access:public	signature:( void ) const
+NcValues::bytes_for_one	ncvalues.h	/^    virtual int bytes_for_one( void ) const = 0;$/;"	p	class:NcValues	access:public	signature:( void ) const
+NcValues::num	ncvalues.h	/^    virtual long num( void );$/;"	p	class:NcValues	access:public	signature:( void )
+NcValues::operator <<	ncvalues.h	/^    friend std::ostream& operator<< (std::ostream&, const NcValues&);$/;"	p	class:NcValues	access:friend	signature:(std::ostream&, const NcValues&)
+NcValues::print	ncvalues.h	/^    virtual std::ostream& print(std::ostream&) const = 0;$/;"	p	class:NcValues	access:public	signature:(std::ostream&) const
+NcValues::the_number	ncvalues.h	/^    long the_number;$/;"	m	class:NcValues	access:protected
+NcValues::the_type	ncvalues.h	/^    NcType the_type;$/;"	m	class:NcValues	access:protected
+NcValues::~NcValues	ncvalues.h	/^    virtual ~NcValues( void );$/;"	p	class:NcValues	access:public	signature:( void )
+NcValuesdeclare	ncvalues.h	67;"	d
+NcValuesimplement	ncvalues.h	103;"	d
+NcVar	netcdfcpp.h	/^    NcVar( void );$/;"	p	class:NcVar	access:private	signature:( void )
+NcVar	netcdfcpp.h	/^    NcVar(NcFile*, int);$/;"	p	class:NcVar	access:private	signature:(NcFile*, int)
+NcVar	netcdfcpp.h	/^class NcVar : public NcTypedComponent$/;"	c	inherits:NcTypedComponent
+NcVar	netcdfcpp.h	/^class NcVar;                    \/\/ variables$/;"	x
+NcVar::NcFile	netcdfcpp.h	/^  friend class NcFile;$/;"	x
+NcVar::NcVar	netcdfcpp.h	/^    NcVar( void );$/;"	p	class:NcVar	access:private	signature:( void )
+NcVar::NcVar	netcdfcpp.h	/^    NcVar(NcFile*, int);$/;"	p	class:NcVar	access:private	signature:(NcFile*, int)
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, char );             \/\/ add scalar attributes$/;"	p	class:NcVar	access:public	signature:( NcToken, char )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, const char* );      \/\/ string attribute$/;"	p	class:NcVar	access:public	signature:( NcToken, const char* )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, double );$/;"	p	class:NcVar	access:public	signature:( NcToken, double )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, float );$/;"	p	class:NcVar	access:public	signature:( NcToken, float )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int );$/;"	p	class:NcVar	access:public	signature:( NcToken, int )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const char* ); \/\/ vector attributes$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const char* )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const double* );$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const double* )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const float* );$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const float* )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const int* );$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const int* )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const long* );$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const long* )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const ncbyte* );$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const ncbyte* )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const short* );$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const short* )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, long );$/;"	p	class:NcVar	access:public	signature:( NcToken, long )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, ncbyte );$/;"	p	class:NcVar	access:public	signature:( NcToken, ncbyte )
+NcVar::add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, short );$/;"	p	class:NcVar	access:public	signature:( NcToken, short )
+NcVar::attname	netcdfcpp.h	/^    NcToken attname( int attnum ) const;$/;"	p	class:NcVar	access:private	signature:( int attnum ) const
+NcVar::attnum	netcdfcpp.h	/^    int attnum( NcToken attname ) const;$/;"	p	class:NcVar	access:private	signature:( NcToken attname ) const
+NcVar::cur_rec	netcdfcpp.h	/^    long* cur_rec;$/;"	m	class:NcVar	access:private
+NcVar::dim_to_index	netcdfcpp.h	/^    int dim_to_index(NcDim* rdim);$/;"	p	class:NcVar	access:private	signature:(NcDim* rdim)
+NcVar::edges	netcdfcpp.h	/^    long* edges( void ) const;          \/\/ dimension sizes$/;"	p	class:NcVar	access:public	signature:( void ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( char* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( char* vals, const long* counts ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( char* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( char* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( double* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( double* vals, const long* counts ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( double* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( double* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( float* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( float* vals, const long* counts ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( float* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( float* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( int* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( int* vals, const long* counts ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( int* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( int* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( long* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( long* vals, const long* counts ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( long* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( long* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( ncbyte* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( ncbyte* vals, const long* counts ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( ncbyte* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( ncbyte* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( short* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( short* vals, const long* counts ) const
+NcVar::get	netcdfcpp.h	/^    NcBool get( short* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( short* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+NcVar::get_att	netcdfcpp.h	/^    NcAtt* get_att( NcToken ) const;    \/\/ attribute by name$/;"	p	class:NcVar	access:public	signature:( NcToken ) const
+NcVar::get_att	netcdfcpp.h	/^    NcAtt* get_att( int ) const;        \/\/ n-th attribute$/;"	p	class:NcVar	access:public	signature:( int ) const
+NcVar::get_dim	netcdfcpp.h	/^    NcDim* get_dim( int ) const;        \/\/ n-th dimension$/;"	p	class:NcVar	access:public	signature:( int ) const
+NcVar::get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const char* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const char* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const double* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const double* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const float* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const float* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const int* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const int* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const long* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const long* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const ncbyte* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const ncbyte* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const short* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const short* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( const char* vals );$/;"	p	class:NcVar	access:public	signature:( const char* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( const double* vals );$/;"	p	class:NcVar	access:public	signature:( const double* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( const float* vals );$/;"	p	class:NcVar	access:public	signature:( const float* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( const int* vals );$/;"	p	class:NcVar	access:public	signature:( const int* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( const long* vals );$/;"	p	class:NcVar	access:public	signature:( const long* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( const ncbyte* vals );$/;"	p	class:NcVar	access:public	signature:( const ncbyte* vals )
+NcVar::get_index	netcdfcpp.h	/^    long get_index( const short* vals );$/;"	p	class:NcVar	access:public	signature:( const short* vals )
+NcVar::get_rec	netcdfcpp.h	/^    NcValues *get_rec(NcDim* d);        \/\/ get current dimension slice$/;"	p	class:NcVar	access:public	signature:(NcDim* d)
+NcVar::get_rec	netcdfcpp.h	/^    NcValues *get_rec(NcDim* d, long slice); \/\/ get specified dimension slice$/;"	p	class:NcVar	access:public	signature:(NcDim* d, long slice)
+NcVar::get_rec	netcdfcpp.h	/^    NcValues *get_rec(long rec);        \/\/ get specified record$/;"	p	class:NcVar	access:public	signature:(long rec)
+NcVar::get_rec	netcdfcpp.h	/^    NcValues *get_rec(void);	        \/\/ get current record$/;"	p	class:NcVar	access:public	signature:(void)
+NcVar::id	netcdfcpp.h	/^    int id( void ) const;               \/\/ rarely needed, C interface id$/;"	p	class:NcVar	access:public	signature:( void ) const
+NcVar::init_cur	netcdfcpp.h	/^    void init_cur( void );$/;"	p	class:NcVar	access:private	signature:( void )
+NcVar::is_valid	netcdfcpp.h	/^    NcBool is_valid( void ) const;$/;"	p	class:NcVar	access:public	signature:( void ) const
+NcVar::name	netcdfcpp.h	/^    NcToken name( void ) const;$/;"	p	class:NcVar	access:public	signature:( void ) const
+NcVar::num_atts	netcdfcpp.h	/^    int num_atts( void ) const;         \/\/ number of attributes$/;"	p	class:NcVar	access:public	signature:( void ) const
+NcVar::num_dims	netcdfcpp.h	/^    int num_dims( void ) const;         \/\/ dimensionality of variable$/;"	p	class:NcVar	access:public	signature:( void ) const
+NcVar::num_vals	netcdfcpp.h	/^    long num_vals( void ) const;        \/\/ product of dimension sizes$/;"	p	class:NcVar	access:public	signature:( void ) const
+NcVar::put	netcdfcpp.h	/^    NcBool put( const char* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const char* vals, const long* counts )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const char* vals,$/;"	p	class:NcVar	access:public	signature:( const char* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const double* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const double* vals, const long* counts )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const double* vals,$/;"	p	class:NcVar	access:public	signature:( const double* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const float* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const float* vals, const long* counts )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const float* vals,$/;"	p	class:NcVar	access:public	signature:( const float* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const int* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const int* vals, const long* counts )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const int* vals,$/;"	p	class:NcVar	access:public	signature:( const int* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const long* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const long* vals, const long* counts )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const long* vals,$/;"	p	class:NcVar	access:public	signature:( const long* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const ncbyte* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const ncbyte* vals, const long* counts )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const ncbyte* vals,$/;"	p	class:NcVar	access:public	signature:( const ncbyte* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const short* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const short* vals, const long* counts )
+NcVar::put	netcdfcpp.h	/^    NcBool put( const short* vals,$/;"	p	class:NcVar	access:public	signature:( const short* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const char* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const char* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const char* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const char* vals, long slice )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const double* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const double* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const double* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const double* vals, long slice )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const float* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const float* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const float* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const float* vals, long slice )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const int* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const int* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const int* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const int* vals, long slice )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const long* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const long* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const long* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const long* vals, long slice )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const ncbyte* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const ncbyte* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const ncbyte* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const ncbyte* vals, long slice )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const short* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const short* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const short* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const short* vals, long slice )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const char* vals );$/;"	p	class:NcVar	access:public	signature:( const char* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const char* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const char* vals, long rec )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const double* vals );$/;"	p	class:NcVar	access:public	signature:( const double* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const double* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const double* vals, long rec )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const float* vals );$/;"	p	class:NcVar	access:public	signature:( const float* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const float* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const float* vals, long rec )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const int* vals );$/;"	p	class:NcVar	access:public	signature:( const int* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const int* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const int* vals, long rec )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const long* vals );$/;"	p	class:NcVar	access:public	signature:( const long* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const long* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const long* vals, long rec )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const ncbyte* vals );$/;"	p	class:NcVar	access:public	signature:( const ncbyte* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const ncbyte* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const ncbyte* vals, long rec )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const short* vals );$/;"	p	class:NcVar	access:public	signature:( const short* vals )
+NcVar::put_rec	netcdfcpp.h	/^    NcBool put_rec( const short* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const short* vals, long rec )
+NcVar::rec_size	netcdfcpp.h	/^    long rec_size ( NcDim* );           \/\/ number of values per dimension slice$/;"	p	class:NcVar	access:public	signature:( NcDim* )
+NcVar::rec_size	netcdfcpp.h	/^    long rec_size ( void );             \/\/ number of values per record$/;"	p	class:NcVar	access:public	signature:( void )
+NcVar::rename	netcdfcpp.h	/^    NcBool rename( NcToken newname );$/;"	p	class:NcVar	access:public	signature:( NcToken newname )
+NcVar::set_cur	netcdfcpp.h	/^    NcBool set_cur(long c0=-1, long c1=-1, long c2=-1,$/;"	p	class:NcVar	access:public	signature:(long c0=-1, long c1=-1, long c2=-1, long c3=-1, long c4=-1)
+NcVar::set_cur	netcdfcpp.h	/^    NcBool set_cur(long* cur);$/;"	p	class:NcVar	access:public	signature:(long* cur)
+NcVar::set_rec	netcdfcpp.h	/^    void set_rec ( NcDim* d, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, long slice )
+NcVar::set_rec	netcdfcpp.h	/^    void set_rec ( long rec );$/;"	p	class:NcVar	access:public	signature:( long rec )
+NcVar::sync	netcdfcpp.h	/^    NcBool sync( void );$/;"	p	class:NcVar	access:public	signature:( void )
+NcVar::the_cur	netcdfcpp.h	/^    long* the_cur;$/;"	m	class:NcVar	access:private
+NcVar::the_id	netcdfcpp.h	/^    int the_id;$/;"	m	class:NcVar	access:private
+NcVar::the_name	netcdfcpp.h	/^    char* the_name;$/;"	m	class:NcVar	access:private
+NcVar::type	netcdfcpp.h	/^    NcType type( void ) const;$/;"	p	class:NcVar	access:public	signature:( void ) const
+NcVar::values	netcdfcpp.h	/^    NcValues* values( void ) const;     \/\/ all values$/;"	p	class:NcVar	access:public	signature:( void ) const
+NcVar::~NcVar	netcdfcpp.h	/^    virtual ~NcVar( void );$/;"	p	class:NcVar	access:public	signature:( void )
+Ncbytes_for_one_implement	ncvalues.h	159;"	d
+Ncvalues_def	ncvalues.h	11;"	d
+Netcdf4	netcdfcpp.h	/^       Netcdf4,		\/\/ netCDF-4 using HDF5 format$/;"	e	enum:NcFile::FileFormat
+Netcdf4Classic	netcdfcpp.h	/^       Netcdf4Classic,	\/\/ netCDF-4 using HDF5 format using only netCDF-3 calls$/;"	e	enum:NcFile::FileFormat
+New	netcdfcpp.h	/^	New		\/\/ create new file, fail if already exists$/;"	e	enum:NcFile::FileMode
+NoClobber	netcdfcpp.h	133;"	d
+NoFill	netcdfcpp.h	/^        NoFill = NC_NOFILL,                \/\/ don't prefill$/;"	e	enum:NcFile::FillMode
+Offset64Bits	netcdfcpp.h	/^       Offset64Bits,    \/\/ netCDF 64-bit offset format$/;"	e	enum:NcFile::FileFormat
+ReadOnly	netcdfcpp.h	/^	ReadOnly,	\/\/ file exists, open read-only$/;"	e	enum:NcFile::FileMode
+Replace	netcdfcpp.h	/^        Replace,	\/\/ create new file, even if already exists$/;"	e	enum:NcFile::FileMode
+STD_ATM_LN	libcf.h	140;"	d
+STD_HYBRID_HEIGHT	libcf.h	155;"	d
+STD_HYBRID_SIGMA	libcf.h	150;"	d
+STD_OCEAN_DBL_SIGMA	libcf.h	180;"	d
+STD_OCEAN_S	libcf.h	170;"	d
+STD_OCEAN_SIGMA	libcf.h	165;"	d
+STD_OCEAN_SIGMA_Z	libcf.h	175;"	d
+STD_SIGMA	libcf.h	145;"	d
+STD_SLEVE	libcf.h	160;"	d
+TRANSFORM_NAME	libcf.h	28;"	d
+TRANSFORM_TYPE	libcf.h	29;"	d
+Write	netcdfcpp.h	/^	Write,		\/\/ file exists, open for writing$/;"	e	enum:NcFile::FileMode
+X_DOUBLE_MAX	libcf.h	102;"	d
+X_DOUBLE_MIN	libcf.h	103;"	d
+X_FLOAT_MAX	libcf.h	100;"	d
+X_FLOAT_MIN	libcf.h	101;"	d
+X_INT64_MAX	netcdf.h	117;"	d
+X_INT64_MIN	netcdf.h	118;"	d
+X_INT_MAX	libcf.h	99;"	d
+X_SCHAR_MAX	libcf.h	96;"	d
+X_SHORT_MAX	libcf.h	98;"	d
+X_UCHAR_MAX	libcf.h	97;"	d
+X_UINT64_MAX	netcdf.h	119;"	d
+Z_DOWN	libcf.h	26;"	d
+Z_UP	libcf.h	25;"	d
+_FillValue	netcdf.h	128;"	d
+_NCCFLIB_	libcf.h	20;"	d
+_NETCDF_	netcdf.h	36;"	d
+__anon1::len	netcdf.h	/^    size_t len; \/* Length of VL data (in base type units) *\/$/;"	m	struct:__anon1	access:public
+__anon1::p	netcdf.h	/^    void *p;    \/* Pointer to VL data *\/$/;"	m	struct:__anon1	access:public
+__anon2::day	libcf.h	/^	 short 		day;		     \/* Day of month (1..31) *\/$/;"	m	struct:__anon2	access:public
+__anon2::hour	libcf.h	/^	 double 		hour;		     \/* Hour and fractional hours *\/$/;"	m	struct:__anon2	access:public
+__anon2::month	libcf.h	/^	 short 		month;		     \/* Numerical month (1..12) *\/$/;"	m	struct:__anon2	access:public
+__anon2::year	libcf.h	/^	 long 		year;		     \/* Year *\/$/;"	m	struct:__anon2	access:public
+_nc__char	ncvalues.h	96;"	d
+_nc__double	ncvalues.h	102;"	d
+_nc__float	ncvalues.h	101;"	d
+_nc__int	ncvalues.h	98;"	d
+_nc__long	ncvalues.h	100;"	d
+_nc__ncbyte	ncvalues.h	95;"	d
+_nc__nclong	ncvalues.h	99;"	d
+_nc__short	ncvalues.h	97;"	d
+abort	netcdfcpp.h	/^    NcBool abort( void );                  \/\/ back out of bad defines$/;"	p	class:NcFile	access:public	signature:( void )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, char );             \/\/ scalar attributes$/;"	p	class:NcFile	access:public	signature:( NcToken attname, char )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, const char*);       \/\/ string attribute$/;"	p	class:NcFile	access:public	signature:( NcToken attname, const char*)
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, double );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, double )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, float );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, float )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const char* ); \/\/ vector attributes$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const char* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const double* );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const double* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const float* );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const float* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const int* );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const int* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const long* );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const long* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const ncbyte* );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const ncbyte* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, int, const short* );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, int, const short* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, long );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, long )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, ncbyte );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, ncbyte )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken attname, short );$/;"	p	class:NcFile	access:public	signature:( NcToken attname, short )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, char );             \/\/ add scalar attributes$/;"	p	class:NcVar	access:public	signature:( NcToken, char )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, const char* );      \/\/ string attribute$/;"	p	class:NcVar	access:public	signature:( NcToken, const char* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, double );$/;"	p	class:NcVar	access:public	signature:( NcToken, double )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, float );$/;"	p	class:NcVar	access:public	signature:( NcToken, float )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int );$/;"	p	class:NcVar	access:public	signature:( NcToken, int )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const char* ); \/\/ vector attributes$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const char* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const double* );$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const double* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const float* );$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const float* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const int* );$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const int* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const long* );$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const long* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const ncbyte* );$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const ncbyte* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, int, const short* );$/;"	p	class:NcVar	access:public	signature:( NcToken, int, const short* )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, long );$/;"	p	class:NcVar	access:public	signature:( NcToken, long )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, ncbyte );$/;"	p	class:NcVar	access:public	signature:( NcToken, ncbyte )
+add_att	netcdfcpp.h	/^    NcBool add_att( NcToken, short );$/;"	p	class:NcVar	access:public	signature:( NcToken, short )
+add_dim	netcdfcpp.h	/^    virtual NcDim* add_dim( NcToken dimname );     \/\/ unlimited$/;"	p	class:NcFile	access:public	signature:( NcToken dimname )
+add_dim	netcdfcpp.h	/^    virtual NcDim* add_dim( NcToken dimname, long dimsize );$/;"	p	class:NcFile	access:public	signature:( NcToken dimname, long dimsize )
+add_var	netcdfcpp.h	/^    virtual NcVar* add_var( NcToken varname, NcType type,       \/\/ n-dim$/;"	p	class:NcFile	access:public	signature:( NcToken varname, NcType type, int ndims, const NcDim** dims )
+add_var	netcdfcpp.h	/^    virtual NcVar* add_var( NcToken varname, NcType type,       \/\/ scalar$/;"	p	class:NcFile	access:public	signature:( NcToken varname, NcType type, const NcDim* dim0=0, const NcDim* dim1=0, const NcDim* dim2=0, const NcDim* dim3=0, const NcDim* dim4=0 )
+as_char	ncvalues.h	/^    virtual char as_char( long n ) const = 0;     \/\/ nth value as char$/;"	p	class:NcValues	access:public	signature:( long n ) const
+as_char	netcdfcpp.h	/^    virtual char as_char( long n ) const;        \/\/ nth value as char$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+as_char_implement	ncvalues.h	173;"	d
+as_double	ncvalues.h	/^    virtual double as_double( long n ) const = 0; \/\/ nth value as double$/;"	p	class:NcValues	access:public	signature:( long n ) const
+as_double	netcdfcpp.h	/^    virtual double as_double( long n ) const;    \/\/ nth value as double$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+as_double_implement	ncvalues.h	223;"	d
+as_float	ncvalues.h	/^    virtual float as_float( long n ) const = 0;   \/\/ nth value as floating-point$/;"	p	class:NcValues	access:public	signature:( long n ) const
+as_float	netcdfcpp.h	/^    virtual float as_float( long n ) const;      \/\/ nth value as floating-point$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+as_float_implement	ncvalues.h	217;"	d
+as_int	ncvalues.h	/^    virtual int    as_int( long n ) const = 0;    \/\/ nth value as int$/;"	p	class:NcValues	access:public	signature:( long n ) const
+as_int	netcdfcpp.h	/^    virtual int as_int( long n ) const;	         \/\/ nth value as int$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+as_int_implement	ncvalues.h	191;"	d
+as_long	ncvalues.h	/^    virtual long as_long( long n ) const = 0;     \/\/ nth value as long$/;"	p	class:NcValues	access:public	signature:( long n ) const
+as_long	netcdfcpp.h	/^    virtual long as_long( long n ) const;        \/\/ nth value as long$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+as_long_implement	ncvalues.h	209;"	d
+as_ncbyte	ncvalues.h	/^    virtual ncbyte as_ncbyte( long n ) const = 0; \/\/ nth value as a byte$/;"	p	class:NcValues	access:public	signature:( long n ) const
+as_ncbyte	netcdfcpp.h	/^    virtual ncbyte as_ncbyte( long n ) const;    \/\/ nth value as an unsgnd char$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+as_ncbyte_implement	ncvalues.h	165;"	d
+as_nclong	ncvalues.h	/^    virtual int    as_nclong( long n ) const = 0; \/\/ nth value as nclong$/;"	p	class:NcValues	access:public	signature:( long n ) const
+as_nclong	netcdfcpp.h	/^    virtual int as_nclong( long n ) const;       \/\/ nth value as nclong (deprecated)$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+as_nclong_implement	ncvalues.h	201;"	d
+as_short	ncvalues.h	/^    virtual short as_short( long n ) const = 0;   \/\/ nth value as short$/;"	p	class:NcValues	access:public	signature:( long n ) const
+as_short	netcdfcpp.h	/^    virtual short as_short( long n ) const;      \/\/ nth value as short$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+as_short_implement	ncvalues.h	181;"	d
+as_string	ncvalues.h	/^    virtual char* as_string( long n ) const = 0;  \/\/ value as string$/;"	p	class:NcValues	access:public	signature:( long n ) const
+as_string	netcdfcpp.h	/^    virtual char* as_string( long n ) const;     \/\/ nth value as string$/;"	p	class:NcTypedComponent	access:public	signature:( long n ) const
+as_string_implement	ncvalues.h	229;"	d
+attname	netcdfcpp.h	/^    NcToken attname( int attnum ) const;$/;"	p	class:NcVar	access:private	signature:( int attnum ) const
+attnum	netcdfcpp.h	/^    int attnum( NcToken attname ) const;$/;"	p	class:NcVar	access:private	signature:( NcToken attname ) const
+base	ncvalues.h	/^    virtual void* base( void ) const = 0;$/;"	p	class:NcValues	access:public	signature:( void ) const
+bytes_for_one	ncvalues.h	/^    virtual int bytes_for_one( void ) const = 0;$/;"	p	class:NcValues	access:public	signature:( void ) const
+cd360	libcf.h	/^      cd360         = ( cdStandardCal | cdHasNoLeap | cd360Days),$/;"	e	enum:cdCalenType
+cd360Days	libcf.h	461;"	d
+cd365Days	libcf.h	460;"	d
+cdAbs2Comp	libcf.h	/^   int cdAbs2Comp(char* absunits, void* abstime, cdType abstimetype, cdCompTime* comptime, double* frac);$/;"	p	signature:(char* absunits, void* abstime, cdType abstimetype, cdCompTime* comptime, double* frac)
+cdByte	libcf.h	/^			cdByte = NC_BYTE,$/;"	e	enum:cdType
+cdCalenType	libcf.h	/^   typedef enum cdCalenType {$/;"	g
+cdCalenType	libcf.h	/^   }  cdCalenType;$/;"	t	typeref:enum:cdCalenType
+cdChar	libcf.h	/^			cdChar = NC_CHAR,$/;"	e	enum:cdType
+cdChar2Comp	libcf.h	/^   void cdChar2Comp(cdCalenType timetype, char* chartime, cdCompTime* comptime);$/;"	p	signature:(cdCalenType timetype, char* chartime, cdCompTime* comptime)
+cdChar2Rel	libcf.h	/^   void cdChar2Rel(cdCalenType timetype, char* chartime, char* relunits, double* reltime);$/;"	p	signature:(cdCalenType timetype, char* chartime, char* relunits, double* reltime)
+cdCharTime	libcf.h	/^			cdCharTime$/;"	e	enum:cdType
+cdClim	libcf.h	/^      cdClim        = ( cdClimCal     | cdHasNoLeap | cd365Days),$/;"	e	enum:cdCalenType
+cdClim360	libcf.h	/^      cdClim360     = ( cdClimCal     | cdHasNoLeap | cd360Days),$/;"	e	enum:cdCalenType
+cdClimCal	libcf.h	457;"	d
+cdClimLeap	libcf.h	/^      cdClimLeap    = ( cdClimCal     | cdHasLeap   | cd365Days),$/;"	e	enum:cdCalenType
+cdComp2Abs	libcf.h	/^   int cdComp2Abs(cdCompTime comptime, char* absunits, cdType abstimetype, double frac, void* abstime);$/;"	p	signature:(cdCompTime comptime, char* absunits, cdType abstimetype, double frac, void* abstime)
+cdComp2Char	libcf.h	/^   void cdComp2Char(cdCalenType timetype, cdCompTime comptime, char* time);$/;"	p	signature:(cdCalenType timetype, cdCompTime comptime, char* time)
+cdComp2Rel	libcf.h	/^   void cdComp2Rel(cdCalenType timetype, cdCompTime comptime, char* relunits, double* reltime);$/;"	p	signature:(cdCalenType timetype, cdCompTime comptime, char* relunits, double* reltime)
+cdCompTime	libcf.h	/^   } cdCompTime;$/;"	t	typeref:struct:__anon2
+cdDouble	libcf.h	/^			cdDouble = NC_DOUBLE,$/;"	e	enum:cdType
+cdFloat	libcf.h	/^			cdFloat = NC_FLOAT,$/;"	e	enum:cdType
+cdHasLeap	libcf.h	458;"	d
+cdHasNoLeap	libcf.h	459;"	d
+cdInt	libcf.h	/^			cdInt = NC_INT,$/;"	e	enum:cdType
+cdInvalidType	libcf.h	/^   typedef enum cdType {cdInvalidType = -1,$/;"	e	enum:cdType
+cdJulian	libcf.h	/^      cdJulian      = ( cdStandardCal | cdHasLeap   | cd365Days | cdJulianCal),$/;"	e	enum:cdCalenType
+cdJulianCal	libcf.h	462;"	d
+cdLong	libcf.h	/^			cdLong = NC_INT,$/;"	e	enum:cdType
+cdLongDouble	libcf.h	/^			cdLongDouble = NC_DOUBLE,$/;"	e	enum:cdType
+cdMixed	libcf.h	/^      cdMixed       = ( cdStandardCal | cdHasLeap   | cd365Days | cdMixedCal)$/;"	e	enum:cdCalenType
+cdMixedCal	libcf.h	463;"	d
+cdNoLeap	libcf.h	/^      cdNoLeap      = ( cdStandardCal | cdHasNoLeap | cd365Days),$/;"	e	enum:cdCalenType
+cdRel2Char	libcf.h	/^   void cdRel2Char(cdCalenType timetype, char* relunits, double reltime, char* chartime);$/;"	p	signature:(cdCalenType timetype, char* relunits, double reltime, char* chartime)
+cdRel2Comp	libcf.h	/^   void cdRel2Comp(cdCalenType timetype, char* relunits, double reltime, cdCompTime* comptime);$/;"	p	signature:(cdCalenType timetype, char* relunits, double reltime, cdCompTime* comptime)
+cdRel2Rel	libcf.h	/^   void cdRel2Rel(cdCalenType timetype, char* inunits, double intime, char* newunits, double* outtime);$/;"	p	signature:(cdCalenType timetype, char* inunits, double intime, char* newunits, double* outtime)
+cdShort	libcf.h	/^			cdShort = NC_SHORT,$/;"	e	enum:cdType
+cdStandard	libcf.h	/^      cdStandard    = ( cdStandardCal | cdHasLeap   | cd365Days),$/;"	e	enum:cdCalenType
+cdStandardCal	libcf.h	456;"	d
+cdType	libcf.h	/^   typedef enum cdType {cdInvalidType = -1,$/;"	g
+cdType	libcf.h	/^   } cdType;$/;"	t	typeref:enum:cdType
+close	netcdfcpp.h	/^    NcBool close( void );                  \/\/ to close earlier than dtr$/;"	p	class:NcFile	access:public	signature:( void )
+cur_rec	netcdfcpp.h	/^    long* cur_rec;$/;"	m	class:NcVar	access:private
+data_mode	netcdfcpp.h	/^    NcBool data_mode( void );   \/\/ leaves in data mode, if possible$/;"	p	class:NcFile	access:public	signature:( void )
+day	libcf.h	/^	 short 		day;		     \/* Day of month (1..31) *\/$/;"	m	struct:__anon2	access:public
+declare	ncvalues.h	57;"	d
+define_mode	netcdfcpp.h	/^    NcBool define_mode( void ); \/\/ leaves in define mode, if possible$/;"	p	class:NcFile	access:public	signature:( void )
+dim_to_index	netcdfcpp.h	/^    int dim_to_index(NcDim* rdim);$/;"	p	class:NcVar	access:private	signature:(NcDim* rdim)
+dimensions	netcdfcpp.h	/^    NcDim** dimensions;$/;"	m	class:NcFile	access:protected
+edges	netcdfcpp.h	/^    long* edges( void ) const;          \/\/ dimension sizes$/;"	p	class:NcVar	access:public	signature:( void ) const
+get	netcdfcpp.h	/^    NcBool get( char* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( char* vals, const long* counts ) const
+get	netcdfcpp.h	/^    NcBool get( char* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( char* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+get	netcdfcpp.h	/^    NcBool get( double* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( double* vals, const long* counts ) const
+get	netcdfcpp.h	/^    NcBool get( double* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( double* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+get	netcdfcpp.h	/^    NcBool get( float* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( float* vals, const long* counts ) const
+get	netcdfcpp.h	/^    NcBool get( float* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( float* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+get	netcdfcpp.h	/^    NcBool get( int* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( int* vals, const long* counts ) const
+get	netcdfcpp.h	/^    NcBool get( int* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( int* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+get	netcdfcpp.h	/^    NcBool get( long* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( long* vals, const long* counts ) const
+get	netcdfcpp.h	/^    NcBool get( long* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( long* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+get	netcdfcpp.h	/^    NcBool get( ncbyte* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( ncbyte* vals, const long* counts ) const
+get	netcdfcpp.h	/^    NcBool get( ncbyte* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( ncbyte* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+get	netcdfcpp.h	/^    NcBool get( short* vals, const long* counts ) const;$/;"	p	class:NcVar	access:public	signature:( short* vals, const long* counts ) const
+get	netcdfcpp.h	/^    NcBool get( short* vals, long c0=0, long c1=0,$/;"	p	class:NcVar	access:public	signature:( short* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 ) const
+get_att	netcdfcpp.h	/^    NcAtt* get_att( NcToken ) const;       \/\/ global attribute by name$/;"	p	class:NcFile	access:public	signature:( NcToken ) const
+get_att	netcdfcpp.h	/^    NcAtt* get_att( NcToken ) const;    \/\/ attribute by name$/;"	p	class:NcVar	access:public	signature:( NcToken ) const
+get_att	netcdfcpp.h	/^    NcAtt* get_att( int ) const;           \/\/ n-th global attribute$/;"	p	class:NcFile	access:public	signature:( int ) const
+get_att	netcdfcpp.h	/^    NcAtt* get_att( int ) const;        \/\/ n-th attribute$/;"	p	class:NcVar	access:public	signature:( int ) const
+get_att	netcdfcpp.h	/^  friend NcAtt* NcVar::get_att( NcToken ) const;$/;"	p	class:NcAtt::NcVar	access:friend	signature:( NcToken ) const
+get_dim	netcdfcpp.h	/^    NcDim* get_dim( NcToken ) const;       \/\/ dimension by name$/;"	p	class:NcFile	access:public	signature:( NcToken ) const
+get_dim	netcdfcpp.h	/^    NcDim* get_dim( int ) const;           \/\/ n-th dimension$/;"	p	class:NcFile	access:public	signature:( int ) const
+get_dim	netcdfcpp.h	/^    NcDim* get_dim( int ) const;        \/\/ n-th dimension$/;"	p	class:NcVar	access:public	signature:( int ) const
+get_err	netcdfcpp.h	/^    int get_err( void );                 \/\/ returns most recent error number$/;"	p	class:NcError	access:public	signature:( void )
+get_errmsg	netcdfcpp.h	/^    const char* get_errmsg( void ) {return nc_strerror(get_err());}$/;"	f	class:NcError	access:public	signature:( void )
+get_fill	netcdfcpp.h	/^    FillMode get_fill( void ) const;       \/\/ get fill-mode$/;"	p	class:NcFile	access:public	signature:( void ) const
+get_format	netcdfcpp.h	/^    FileFormat get_format( void ) const;   \/\/ get format version$/;"	p	class:NcFile	access:public	signature:( void ) const
+get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const char* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const char* vals )
+get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const double* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const double* vals )
+get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const float* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const float* vals )
+get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const int* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const int* vals )
+get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const long* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const long* vals )
+get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const ncbyte* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const ncbyte* vals )
+get_index	netcdfcpp.h	/^    long get_index( NcDim* d, const short* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const short* vals )
+get_index	netcdfcpp.h	/^    long get_index( const char* vals );$/;"	p	class:NcVar	access:public	signature:( const char* vals )
+get_index	netcdfcpp.h	/^    long get_index( const double* vals );$/;"	p	class:NcVar	access:public	signature:( const double* vals )
+get_index	netcdfcpp.h	/^    long get_index( const float* vals );$/;"	p	class:NcVar	access:public	signature:( const float* vals )
+get_index	netcdfcpp.h	/^    long get_index( const int* vals );$/;"	p	class:NcVar	access:public	signature:( const int* vals )
+get_index	netcdfcpp.h	/^    long get_index( const long* vals );$/;"	p	class:NcVar	access:public	signature:( const long* vals )
+get_index	netcdfcpp.h	/^    long get_index( const ncbyte* vals );$/;"	p	class:NcVar	access:public	signature:( const ncbyte* vals )
+get_index	netcdfcpp.h	/^    long get_index( const short* vals );$/;"	p	class:NcVar	access:public	signature:( const short* vals )
+get_rec	netcdfcpp.h	/^    NcValues *get_rec(NcDim* d);        \/\/ get current dimension slice$/;"	p	class:NcVar	access:public	signature:(NcDim* d)
+get_rec	netcdfcpp.h	/^    NcValues *get_rec(NcDim* d, long slice); \/\/ get specified dimension slice$/;"	p	class:NcVar	access:public	signature:(NcDim* d, long slice)
+get_rec	netcdfcpp.h	/^    NcValues *get_rec(long rec);        \/\/ get specified record$/;"	p	class:NcVar	access:public	signature:(long rec)
+get_rec	netcdfcpp.h	/^    NcValues *get_rec(void);	        \/\/ get current record$/;"	p	class:NcVar	access:public	signature:(void)
+get_space	netcdfcpp.h	/^    virtual NcValues* get_space( long numVals = 0 ) const;  \/\/ to hold values$/;"	p	class:NcTypedComponent	access:protected	signature:( long numVals = 0 ) const
+get_var	netcdfcpp.h	/^    NcVar* get_var( NcToken ) const;       \/\/ variable by name$/;"	p	class:NcFile	access:public	signature:( NcToken ) const
+get_var	netcdfcpp.h	/^    NcVar* get_var( int ) const;           \/\/ n-th variable$/;"	p	class:NcFile	access:public	signature:( int ) const
+globalv	netcdfcpp.h	/^    NcVar* globalv;             \/\/ "variable" for global attributes$/;"	m	class:NcFile	access:protected
+hour	libcf.h	/^	 double 		hour;		     \/* Hour and fractional hours *\/$/;"	m	struct:__anon2	access:public
+id	netcdfcpp.h	/^    int id( void ) const;               \/\/ rarely needed, C interface id$/;"	p	class:NcVar	access:public	signature:( void ) const
+id	netcdfcpp.h	/^    int id( void ) const;       \/\/ id used by C interface$/;"	p	class:NcFile	access:public	signature:( void ) const
+id	netcdfcpp.h	/^    int id( void ) const;$/;"	p	class:NcDim	access:public	signature:( void ) const
+implement	ncvalues.h	58;"	d
+in_define_mode	netcdfcpp.h	/^    int in_define_mode;$/;"	m	class:NcFile	access:protected
+init_cur	netcdfcpp.h	/^    void init_cur( void );$/;"	p	class:NcVar	access:private	signature:( void )
+is_unlimited	netcdfcpp.h	/^    NcBool is_unlimited( void ) const;$/;"	p	class:NcDim	access:public	signature:( void ) const
+is_valid	netcdfcpp.h	/^    NcBool is_valid( void ) const;         \/\/ opened OK in ctr, still valid$/;"	p	class:NcFile	access:public	signature:( void ) const
+is_valid	netcdfcpp.h	/^    NcBool is_valid( void ) const;$/;"	p	class:NcAtt	access:public	signature:( void ) const
+is_valid	netcdfcpp.h	/^    NcBool is_valid( void ) const;$/;"	p	class:NcDim	access:public	signature:( void ) const
+is_valid	netcdfcpp.h	/^    NcBool is_valid( void ) const;$/;"	p	class:NcVar	access:public	signature:( void ) const
+is_valid	netcdfcpp.h	/^    virtual NcBool is_valid( void ) const = 0;$/;"	p	class:NcTypedComponent	access:public	signature:( void ) const
+len	netcdf.h	/^    size_t len; \/* Length of VL data (in base type units) *\/$/;"	m	struct:__anon1	access:public
+makename2	ncvalues.h	62;"	d
+makename2_x	ncvalues.h	63;"	d
+month	libcf.h	/^	 short 		month;		     \/* Numerical month (1..12) *\/$/;"	m	struct:__anon2	access:public
+name	netcdfcpp.h	/^    NcToken name( void ) const;$/;"	p	class:NcAtt	access:public	signature:( void ) const
+name	netcdfcpp.h	/^    NcToken name( void ) const;$/;"	p	class:NcDim	access:public	signature:( void ) const
+name	netcdfcpp.h	/^    NcToken name( void ) const;$/;"	p	class:NcVar	access:public	signature:( void ) const
+name	netcdfcpp.h	/^    virtual NcToken name( void ) const = 0;$/;"	p	class:NcTypedComponent	access:public	signature:( void ) const
+name2	ncvalues.h	56;"	d
+ncBad_byte	ncvalues.h	/^static const ncbyte ncBad_byte = NC_FILL_BYTE;$/;"	v
+ncBad_char	ncvalues.h	/^static const char ncBad_char = NC_FILL_CHAR;$/;"	v
+ncBad_double	ncvalues.h	/^static const double ncBad_double = NC_FILL_DOUBLE;$/;"	v
+ncBad_float	ncvalues.h	/^static const float ncBad_float = NC_FILL_FLOAT;$/;"	v
+ncBad_int	ncvalues.h	/^static const int ncBad_int = NC_FILL_INT;$/;"	v
+ncBad_long	ncvalues.h	/^static const long ncBad_long = FILL_LONG; \/\/ deprecated$/;"	v
+ncBad_ncbyte	ncvalues.h	45;"	d
+ncBad_nclong	ncvalues.h	/^static const nclong ncBad_nclong = FILL_LONG; \/\/ deprecated$/;"	v
+ncBad_short	ncvalues.h	/^static const short ncBad_short = NC_FILL_SHORT;$/;"	v
+ncByte	ncvalues.h	/^  ncByte = NC_BYTE, $/;"	e	enum:NcType
+ncChar	ncvalues.h	/^  ncChar = NC_CHAR, $/;"	e	enum:NcType
+ncDouble	ncvalues.h	/^  ncDouble = NC_DOUBLE$/;"	e	enum:NcType
+ncFloat	ncvalues.h	/^  ncFloat = NC_FLOAT, $/;"	e	enum:NcType
+ncInt	ncvalues.h	/^  ncInt = NC_INT,$/;"	e	enum:NcType
+ncLong	ncvalues.h	/^  ncLong = NC_LONG,		\/\/ deprecated, someday want to use for 64-bit ints$/;"	e	enum:NcType
+ncNoType	ncvalues.h	/^  ncNoType = NC_UNSPECIFIED, $/;"	e	enum:NcType
+ncShort	ncvalues.h	/^  ncShort = NC_SHORT, $/;"	e	enum:NcType
+nc__create	netcdf.h	/^nc__create(const char *path, int cmode, size_t initialsz,$/;"	p	signature:(const char *path, int cmode, size_t initialsz, size_t *chunksizehintp, int *ncidp)
+nc__create_mp	netcdf.h	/^nc__create_mp(const char *path, int cmode, size_t initialsz, int basepe,$/;"	p	signature:(const char *path, int cmode, size_t initialsz, int basepe, size_t *chunksizehintp, int *ncidp)
+nc__enddef	netcdf.h	/^nc__enddef(int ncid, size_t h_minfree, size_t v_align,$/;"	p	signature:(int ncid, size_t h_minfree, size_t v_align, size_t v_minfree, size_t r_align)
+nc__open	netcdf.h	/^nc__open(const char *path, int mode, $/;"	p	signature:(const char *path, int mode, size_t *chunksizehintp, int *ncidp)
+nc__open_mp	netcdf.h	/^nc__open_mp(const char *path, int mode, int basepe,$/;"	p	signature:(const char *path, int mode, int basepe, size_t *chunksizehintp, int *ncidp)
+nc_abort	netcdf.h	/^nc_abort(int ncid);$/;"	p	signature:(int ncid)
+nc_advise	netcdf.h	/^nc_advise(const char *cdf_routine_name, int err, const char *fmt,...);$/;"	p	signature:(const char *cdf_routine_name, int err, const char *fmt,...)
+nc_close	netcdf.h	/^nc_close(int ncid);$/;"	p	signature:(int ncid)
+nc_copy_att	netcdf.h	/^nc_copy_att(int ncid_in, int varid_in, const char *name, int ncid_out, int varid_out);$/;"	p	signature:(int ncid_in, int varid_in, const char *name, int ncid_out, int varid_out)
+nc_copy_var	netcdf.h	/^nc_copy_var(int ncid_in, int varid, int ncid_out);$/;"	p	signature:(int ncid_in, int varid, int ncid_out)
+nc_create	netcdf.h	/^nc_create(const char *path, int cmode, int *ncidp);$/;"	p	signature:(const char *path, int cmode, int *ncidp)
+nc_create_par	netcdf.h	/^nc_create_par(const char *path, int cmode, MPI_Comm comm, MPI_Info info,$/;"	p	signature:(const char *path, int cmode, MPI_Comm comm, MPI_Info info, int *ncidp)
+nc_def_compound	netcdf.h	/^nc_def_compound(int ncid, size_t size, const char *name, nc_type *typeidp);$/;"	p	signature:(int ncid, size_t size, const char *name, nc_type *typeidp)
+nc_def_dim	netcdf.h	/^nc_def_dim(int ncid, const char *name, size_t len, int *idp);$/;"	p	signature:(int ncid, const char *name, size_t len, int *idp)
+nc_def_enum	netcdf.h	/^nc_def_enum(int ncid, nc_type base_typeid, const char *name, $/;"	p	signature:(int ncid, nc_type base_typeid, const char *name, nc_type *typeidp)
+nc_def_grp	netcdf.h	/^nc_def_grp(int parent_ncid, const char *name, int *new_ncid);$/;"	p	signature:(int parent_ncid, const char *name, int *new_ncid)
+nc_def_opaque	netcdf.h	/^nc_def_opaque(int ncid, size_t size, const char *name, nc_type *xtypep);$/;"	p	signature:(int ncid, size_t size, const char *name, nc_type *xtypep)
+nc_def_var	netcdf.h	/^nc_def_var(int ncid, const char *name, nc_type xtype, int ndims, $/;"	p	signature:(int ncid, const char *name, nc_type xtype, int ndims, const int *dimidsp, int *varidp)
+nc_def_var_chunking	netcdf.h	/^nc_def_var_chunking(int ncid, int varid, int storage, const size_t *chunksizesp);$/;"	p	signature:(int ncid, int varid, int storage, const size_t *chunksizesp)
+nc_def_var_deflate	netcdf.h	/^nc_def_var_deflate(int ncid, int varid, int shuffle, int deflate, $/;"	p	signature:(int ncid, int varid, int shuffle, int deflate, int deflate_level)
+nc_def_var_endian	netcdf.h	/^nc_def_var_endian(int ncid, int varid, int endian);$/;"	p	signature:(int ncid, int varid, int endian)
+nc_def_var_fill	netcdf.h	/^nc_def_var_fill(int ncid, int varid, int no_fill, const void *fill_value);$/;"	p	signature:(int ncid, int varid, int no_fill, const void *fill_value)
+nc_def_var_fletcher32	netcdf.h	/^nc_def_var_fletcher32(int ncid, int varid, int fletcher32);$/;"	p	signature:(int ncid, int varid, int fletcher32)
+nc_def_vlen	netcdf.h	/^nc_def_vlen(int ncid, const char *name, nc_type base_typeid, nc_type *xtypep);$/;"	p	signature:(int ncid, const char *name, nc_type base_typeid, nc_type *xtypep)
+nc_del_att	netcdf.h	/^nc_del_att(int ncid, int varid, const char *name);$/;"	p	signature:(int ncid, int varid, const char *name)
+nc_delete	netcdf.h	/^nc_delete(const char * path);$/;"	p	signature:(const char * path)
+nc_delete_mp	netcdf.h	/^nc_delete_mp(const char * path, int basepe);$/;"	p	signature:(const char * path, int basepe)
+nc_enddef	netcdf.h	/^nc_enddef(int ncid);$/;"	p	signature:(int ncid)
+nc_free_string	netcdf.h	/^nc_free_string(size_t len, char **data);$/;"	p	signature:(size_t len, char **data)
+nc_free_vlen	netcdf.h	/^nc_free_vlen(nc_vlen_t *vl);$/;"	p	signature:(nc_vlen_t *vl)
+nc_free_vlens	netcdf.h	/^nc_free_vlens(size_t len, nc_vlen_t vlens[]);$/;"	p	signature:(size_t len, nc_vlen_t vlens[])
+nc_get_att	netcdf.h	/^nc_get_att(int ncid, int varid, const char *name, void *ip);$/;"	p	signature:(int ncid, int varid, const char *name, void *ip)
+nc_get_att_double	netcdf.h	/^nc_get_att_double(int ncid, int varid, const char *name, double *ip);$/;"	p	signature:(int ncid, int varid, const char *name, double *ip)
+nc_get_att_float	netcdf.h	/^nc_get_att_float(int ncid, int varid, const char *name, float *ip);$/;"	p	signature:(int ncid, int varid, const char *name, float *ip)
+nc_get_att_int	netcdf.h	/^nc_get_att_int(int ncid, int varid, const char *name, int *ip);$/;"	p	signature:(int ncid, int varid, const char *name, int *ip)
+nc_get_att_long	netcdf.h	/^nc_get_att_long(int ncid, int varid, const char *name, long *ip);$/;"	p	signature:(int ncid, int varid, const char *name, long *ip)
+nc_get_att_longlong	netcdf.h	/^nc_get_att_longlong(int ncid, int varid, const char *name, long long *ip);$/;"	p	signature:(int ncid, int varid, const char *name, long long *ip)
+nc_get_att_schar	netcdf.h	/^nc_get_att_schar(int ncid, int varid, const char *name, signed char *ip);$/;"	p	signature:(int ncid, int varid, const char *name, signed char *ip)
+nc_get_att_short	netcdf.h	/^nc_get_att_short(int ncid, int varid, const char *name, short *ip);$/;"	p	signature:(int ncid, int varid, const char *name, short *ip)
+nc_get_att_string	netcdf.h	/^nc_get_att_string(int ncid, int varid, const char *name, char **ip);$/;"	p	signature:(int ncid, int varid, const char *name, char **ip)
+nc_get_att_text	netcdf.h	/^nc_get_att_text(int ncid, int varid, const char *name, char *ip);$/;"	p	signature:(int ncid, int varid, const char *name, char *ip)
+nc_get_att_ubyte	netcdf.h	/^nc_get_att_ubyte(int ncid, int varid, const char *name, $/;"	p	signature:(int ncid, int varid, const char *name, unsigned char *ip)
+nc_get_att_uchar	netcdf.h	/^nc_get_att_uchar(int ncid, int varid, const char *name, unsigned char *ip);$/;"	p	signature:(int ncid, int varid, const char *name, unsigned char *ip)
+nc_get_att_uint	netcdf.h	/^nc_get_att_uint(int ncid, int varid, const char *name, unsigned int *ip);$/;"	p	signature:(int ncid, int varid, const char *name, unsigned int *ip)
+nc_get_att_ulonglong	netcdf.h	/^nc_get_att_ulonglong(int ncid, int varid, const char *name, $/;"	p	signature:(int ncid, int varid, const char *name, unsigned long long *ip)
+nc_get_att_ushort	netcdf.h	/^nc_get_att_ushort(int ncid, int varid, const char *name, unsigned short *ip);$/;"	p	signature:(int ncid, int varid, const char *name, unsigned short *ip)
+nc_get_chunk_cache	netcdf.h	/^nc_get_chunk_cache(size_t *sizep, size_t *nelemsp, float *preemptionp);$/;"	p	signature:(size_t *sizep, size_t *nelemsp, float *preemptionp)
+nc_get_var	netcdf.h	/^nc_get_var(int ncid, int varid,  void *ip);$/;"	p	signature:(int ncid, int varid, void *ip)
+nc_get_var1	netcdf.h	/^nc_get_var1(int ncid, int varid,  const size_t *indexp, void *ip);$/;"	p	signature:(int ncid, int varid, const size_t *indexp, void *ip)
+nc_get_var1_double	netcdf.h	/^nc_get_var1_double(int ncid, int varid, const size_t *indexp, double *ip);$/;"	p	signature:(int ncid, int varid, const size_t *indexp, double *ip)
+nc_get_var1_float	netcdf.h	/^nc_get_var1_float(int ncid, int varid, const size_t *indexp, float *ip);$/;"	p	signature:(int ncid, int varid, const size_t *indexp, float *ip)
+nc_get_var1_int	netcdf.h	/^nc_get_var1_int(int ncid, int varid, const size_t *indexp, int *ip);$/;"	p	signature:(int ncid, int varid, const size_t *indexp, int *ip)
+nc_get_var1_long	netcdf.h	/^nc_get_var1_long(int ncid, int varid, const size_t *indexp, long *ip);$/;"	p	signature:(int ncid, int varid, const size_t *indexp, long *ip)
+nc_get_var1_longlong	netcdf.h	/^nc_get_var1_longlong(int ncid, int varid, const size_t *indexp, $/;"	p	signature:(int ncid, int varid, const size_t *indexp, long long *ip)
+nc_get_var1_schar	netcdf.h	/^nc_get_var1_schar(int ncid, int varid, const size_t *indexp,$/;"	p	signature:(int ncid, int varid, const size_t *indexp, signed char *ip)
+nc_get_var1_short	netcdf.h	/^nc_get_var1_short(int ncid, int varid, const size_t *indexp,$/;"	p	signature:(int ncid, int varid, const size_t *indexp, short *ip)
+nc_get_var1_string	netcdf.h	/^nc_get_var1_string(int ncid, int varid, const size_t *indexp, $/;"	p	signature:(int ncid, int varid, const size_t *indexp, char **ip)
+nc_get_var1_text	netcdf.h	/^nc_get_var1_text(int ncid, int varid, const size_t *indexp, char *ip);$/;"	p	signature:(int ncid, int varid, const size_t *indexp, char *ip)
+nc_get_var1_ubyte	netcdf.h	/^nc_get_var1_ubyte(int ncid, int varid, const size_t *indexp, $/;"	p	signature:(int ncid, int varid, const size_t *indexp, unsigned char *ip)
+nc_get_var1_uchar	netcdf.h	/^nc_get_var1_uchar(int ncid, int varid, const size_t *indexp,$/;"	p	signature:(int ncid, int varid, const size_t *indexp, unsigned char *ip)
+nc_get_var1_uint	netcdf.h	/^nc_get_var1_uint(int ncid, int varid, const size_t *indexp, $/;"	p	signature:(int ncid, int varid, const size_t *indexp, unsigned int *ip)
+nc_get_var1_ulonglong	netcdf.h	/^nc_get_var1_ulonglong(int ncid, int varid, const size_t *indexp, $/;"	p	signature:(int ncid, int varid, const size_t *indexp, unsigned long long *ip)
+nc_get_var1_ushort	netcdf.h	/^nc_get_var1_ushort(int ncid, int varid, const size_t *indexp, $/;"	p	signature:(int ncid, int varid, const size_t *indexp, unsigned short *ip)
+nc_get_var_chunk_cache	netcdf.h	/^nc_get_var_chunk_cache(int ncid, int varid, size_t *sizep, size_t *nelemsp, $/;"	p	signature:(int ncid, int varid, size_t *sizep, size_t *nelemsp, float *preemptionp)
+nc_get_var_double	netcdf.h	/^nc_get_var_double(int ncid, int varid, double *ip);$/;"	p	signature:(int ncid, int varid, double *ip)
+nc_get_var_float	netcdf.h	/^nc_get_var_float(int ncid, int varid, float *ip);$/;"	p	signature:(int ncid, int varid, float *ip)
+nc_get_var_int	netcdf.h	/^nc_get_var_int(int ncid, int varid, int *ip);$/;"	p	signature:(int ncid, int varid, int *ip)
+nc_get_var_long	netcdf.h	/^nc_get_var_long(int ncid, int varid, long *ip);$/;"	p	signature:(int ncid, int varid, long *ip)
+nc_get_var_longlong	netcdf.h	/^nc_get_var_longlong(int ncid, int varid, long long *ip);$/;"	p	signature:(int ncid, int varid, long long *ip)
+nc_get_var_schar	netcdf.h	/^nc_get_var_schar(int ncid, int varid, signed char *ip);$/;"	p	signature:(int ncid, int varid, signed char *ip)
+nc_get_var_short	netcdf.h	/^nc_get_var_short(int ncid, int varid, short *ip);$/;"	p	signature:(int ncid, int varid, short *ip)
+nc_get_var_string	netcdf.h	/^nc_get_var_string(int ncid, int varid, char **ip);$/;"	p	signature:(int ncid, int varid, char **ip)
+nc_get_var_text	netcdf.h	/^nc_get_var_text(int ncid, int varid, char *ip);$/;"	p	signature:(int ncid, int varid, char *ip)
+nc_get_var_ubyte	netcdf.h	/^nc_get_var_ubyte(int ncid, int varid, unsigned char *ip);$/;"	p	signature:(int ncid, int varid, unsigned char *ip)
+nc_get_var_uchar	netcdf.h	/^nc_get_var_uchar(int ncid, int varid, unsigned char *ip);$/;"	p	signature:(int ncid, int varid, unsigned char *ip)
+nc_get_var_uint	netcdf.h	/^nc_get_var_uint(int ncid, int varid, unsigned int *ip);$/;"	p	signature:(int ncid, int varid, unsigned int *ip)
+nc_get_var_ulonglong	netcdf.h	/^nc_get_var_ulonglong(int ncid, int varid, unsigned long long *ip);$/;"	p	signature:(int ncid, int varid, unsigned long long *ip)
+nc_get_var_ushort	netcdf.h	/^nc_get_var_ushort(int ncid, int varid, unsigned short *ip);$/;"	p	signature:(int ncid, int varid, unsigned short *ip)
+nc_get_vara	netcdf.h	/^nc_get_vara(int ncid, int varid,  const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, void *ip)
+nc_get_vara_double	netcdf.h	/^nc_get_vara_double(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, double *ip)
+nc_get_vara_float	netcdf.h	/^nc_get_vara_float(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, float *ip)
+nc_get_vara_int	netcdf.h	/^nc_get_vara_int(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, int *ip)
+nc_get_vara_long	netcdf.h	/^nc_get_vara_long(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, long *ip)
+nc_get_vara_longlong	netcdf.h	/^nc_get_vara_longlong(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, long long *ip)
+nc_get_vara_schar	netcdf.h	/^nc_get_vara_schar(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, signed char *ip)
+nc_get_vara_short	netcdf.h	/^nc_get_vara_short(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, short *ip)
+nc_get_vara_string	netcdf.h	/^nc_get_vara_string(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, char **ip)
+nc_get_vara_text	netcdf.h	/^nc_get_vara_text(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, char *ip)
+nc_get_vara_ubyte	netcdf.h	/^nc_get_vara_ubyte(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, unsigned char *ip)
+nc_get_vara_uchar	netcdf.h	/^nc_get_vara_uchar(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, unsigned char *ip)
+nc_get_vara_uint	netcdf.h	/^nc_get_vara_uint(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, unsigned int *ip)
+nc_get_vara_ulonglong	netcdf.h	/^nc_get_vara_ulonglong(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, unsigned long long *ip)
+nc_get_vara_ushort	netcdf.h	/^nc_get_vara_ushort(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, unsigned short *ip)
+nc_get_varm	netcdf.h	/^nc_get_varm(int ncid, int varid,  const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, void *ip)
+nc_get_varm_double	netcdf.h	/^nc_get_varm_double(int ncid, int varid,	const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, double *ip)
+nc_get_varm_float	netcdf.h	/^nc_get_varm_float(int ncid, int varid,const size_t *startp, $/;"	p	signature:(int ncid, int varid,const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, float *ip)
+nc_get_varm_int	netcdf.h	/^nc_get_varm_int(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, int *ip)
+nc_get_varm_long	netcdf.h	/^nc_get_varm_long(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, long *ip)
+nc_get_varm_longlong	netcdf.h	/^nc_get_varm_longlong(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, long long *ip)
+nc_get_varm_schar	netcdf.h	/^nc_get_varm_schar(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, signed char *ip)
+nc_get_varm_short	netcdf.h	/^nc_get_varm_short(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, short *ip)
+nc_get_varm_string	netcdf.h	/^nc_get_varm_string(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, char **ip)
+nc_get_varm_text	netcdf.h	/^nc_get_varm_text(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, char *ip)
+nc_get_varm_ubyte	netcdf.h	/^nc_get_varm_ubyte(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, unsigned char *ip)
+nc_get_varm_uchar	netcdf.h	/^nc_get_varm_uchar(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, unsigned char *ip)
+nc_get_varm_uint	netcdf.h	/^nc_get_varm_uint(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, unsigned int *ip)
+nc_get_varm_ulonglong	netcdf.h	/^nc_get_varm_ulonglong(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, unsigned long long *ip)
+nc_get_varm_ushort	netcdf.h	/^nc_get_varm_ushort(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, unsigned short *ip)
+nc_get_vars	netcdf.h	/^nc_get_vars(int ncid, int varid,  const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, void *ip)
+nc_get_vars_double	netcdf.h	/^nc_get_vars_double(int ncid, int varid,	const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, double *ip)
+nc_get_vars_float	netcdf.h	/^nc_get_vars_float(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, float *ip)
+nc_get_vars_int	netcdf.h	/^nc_get_vars_int(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, int *ip)
+nc_get_vars_long	netcdf.h	/^nc_get_vars_long(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, long *ip)
+nc_get_vars_longlong	netcdf.h	/^nc_get_vars_longlong(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, long long *ip)
+nc_get_vars_schar	netcdf.h	/^nc_get_vars_schar(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, signed char *ip)
+nc_get_vars_short	netcdf.h	/^nc_get_vars_short(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, short *ip)
+nc_get_vars_string	netcdf.h	/^nc_get_vars_string(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, char **ip)
+nc_get_vars_text	netcdf.h	/^nc_get_vars_text(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, char *ip)
+nc_get_vars_ubyte	netcdf.h	/^nc_get_vars_ubyte(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, unsigned char *ip)
+nc_get_vars_uchar	netcdf.h	/^nc_get_vars_uchar(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, unsigned char *ip)
+nc_get_vars_uint	netcdf.h	/^nc_get_vars_uint(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, unsigned int *ip)
+nc_get_vars_ulonglong	netcdf.h	/^nc_get_vars_ulonglong(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, unsigned long long *ip)
+nc_get_vars_ushort	netcdf.h	/^nc_get_vars_ushort(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, unsigned short *ip)
+nc_get_vlen_element	netcdf.h	/^nc_get_vlen_element(int ncid, int typeid1, const void *vlen_element, $/;"	p	signature:(int ncid, int typeid1, const void *vlen_element, size_t *len, void *data)
+nc_inq	netcdf.h	/^nc_inq(int ncid, int *ndimsp, int *nvarsp, int *nattsp, int *unlimdimidp);$/;"	p	signature:(int ncid, int *ndimsp, int *nvarsp, int *nattsp, int *unlimdimidp)
+nc_inq_att	netcdf.h	/^nc_inq_att(int ncid, int varid, const char *name,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type *xtypep, size_t *lenp)
+nc_inq_attid	netcdf.h	/^nc_inq_attid(int ncid, int varid, const char *name, int *idp);$/;"	p	signature:(int ncid, int varid, const char *name, int *idp)
+nc_inq_attlen	netcdf.h	/^nc_inq_attlen(int ncid, int varid, const char *name, size_t *lenp);$/;"	p	signature:(int ncid, int varid, const char *name, size_t *lenp)
+nc_inq_attname	netcdf.h	/^nc_inq_attname(int ncid, int varid, int attnum, char *name);$/;"	p	signature:(int ncid, int varid, int attnum, char *name)
+nc_inq_atttype	netcdf.h	/^nc_inq_atttype(int ncid, int varid, const char *name, nc_type *xtypep);$/;"	p	signature:(int ncid, int varid, const char *name, nc_type *xtypep)
+nc_inq_base_pe	netcdf.h	/^nc_inq_base_pe(int ncid, int *pe);$/;"	p	signature:(int ncid, int *pe)
+nc_inq_compound	netcdf.h	/^nc_inq_compound(int ncid, nc_type xtype, char *name, size_t *sizep, $/;"	p	signature:(int ncid, nc_type xtype, char *name, size_t *sizep, size_t *nfieldsp)
+nc_inq_compound_field	netcdf.h	/^nc_inq_compound_field(int ncid, nc_type xtype, int fieldid, char *name, $/;"	p	signature:(int ncid, nc_type xtype, int fieldid, char *name, size_t *offsetp, nc_type *field_typeidp, int *ndimsp, int *dim_sizesp)
+nc_inq_compound_fielddim_sizes	netcdf.h	/^nc_inq_compound_fielddim_sizes(int ncid, nc_type xtype, int fieldid, $/;"	p	signature:(int ncid, nc_type xtype, int fieldid, int *dim_sizes)
+nc_inq_compound_fieldindex	netcdf.h	/^nc_inq_compound_fieldindex(int ncid, nc_type xtype, const char *name, $/;"	p	signature:(int ncid, nc_type xtype, const char *name, int *fieldidp)
+nc_inq_compound_fieldname	netcdf.h	/^nc_inq_compound_fieldname(int ncid, nc_type xtype, int fieldid, $/;"	p	signature:(int ncid, nc_type xtype, int fieldid, char *name)
+nc_inq_compound_fieldndims	netcdf.h	/^nc_inq_compound_fieldndims(int ncid, nc_type xtype, int fieldid, $/;"	p	signature:(int ncid, nc_type xtype, int fieldid, int *ndimsp)
+nc_inq_compound_fieldoffset	netcdf.h	/^nc_inq_compound_fieldoffset(int ncid, nc_type xtype, int fieldid, $/;"	p	signature:(int ncid, nc_type xtype, int fieldid, size_t *offsetp)
+nc_inq_compound_fieldtype	netcdf.h	/^nc_inq_compound_fieldtype(int ncid, nc_type xtype, int fieldid, $/;"	p	signature:(int ncid, nc_type xtype, int fieldid, nc_type *field_typeidp)
+nc_inq_compound_name	netcdf.h	/^nc_inq_compound_name(int ncid, nc_type xtype, char *name);$/;"	p	signature:(int ncid, nc_type xtype, char *name)
+nc_inq_compound_nfields	netcdf.h	/^nc_inq_compound_nfields(int ncid, nc_type xtype, size_t *nfieldsp);$/;"	p	signature:(int ncid, nc_type xtype, size_t *nfieldsp)
+nc_inq_compound_size	netcdf.h	/^nc_inq_compound_size(int ncid, nc_type xtype, size_t *sizep);$/;"	p	signature:(int ncid, nc_type xtype, size_t *sizep)
+nc_inq_dim	netcdf.h	/^nc_inq_dim(int ncid, int dimid, char *name, size_t *lenp);$/;"	p	signature:(int ncid, int dimid, char *name, size_t *lenp)
+nc_inq_dimid	netcdf.h	/^nc_inq_dimid(int ncid, const char *name, int *idp);$/;"	p	signature:(int ncid, const char *name, int *idp)
+nc_inq_dimids	netcdf.h	/^nc_inq_dimids(int ncid, int *ndims, int *dimids, int include_parents);$/;"	p	signature:(int ncid, int *ndims, int *dimids, int include_parents)
+nc_inq_dimlen	netcdf.h	/^nc_inq_dimlen(int ncid, int dimid, size_t *lenp);$/;"	p	signature:(int ncid, int dimid, size_t *lenp)
+nc_inq_dimname	netcdf.h	/^nc_inq_dimname(int ncid, int dimid, char *name);$/;"	p	signature:(int ncid, int dimid, char *name)
+nc_inq_enum	netcdf.h	/^nc_inq_enum(int ncid, nc_type xtype, char *name, nc_type *base_nc_typep, $/;"	p	signature:(int ncid, nc_type xtype, char *name, nc_type *base_nc_typep, size_t *base_sizep, size_t *num_membersp)
+nc_inq_enum_ident	netcdf.h	/^nc_inq_enum_ident(int ncid, nc_type xtype, long long value, char *identifier);$/;"	p	signature:(int ncid, nc_type xtype, long long value, char *identifier)
+nc_inq_enum_member	netcdf.h	/^nc_inq_enum_member(int ncid, nc_type xtype, int idx, char *name, $/;"	p	signature:(int ncid, nc_type xtype, int idx, char *name, void *value)
+nc_inq_format	netcdf.h	/^nc_inq_format(int ncid, int *formatp);$/;"	p	signature:(int ncid, int *formatp)
+nc_inq_grp_full_ncid	netcdf.h	/^nc_inq_grp_full_ncid(int ncid, const char *full_name, int *grp_ncid);$/;"	p	signature:(int ncid, const char *full_name, int *grp_ncid)
+nc_inq_grp_ncid	netcdf.h	/^nc_inq_grp_ncid(int ncid, const char *grp_name, int *grp_ncid);$/;"	p	signature:(int ncid, const char *grp_name, int *grp_ncid)
+nc_inq_grp_parent	netcdf.h	/^nc_inq_grp_parent(int ncid, int *parent_ncid);$/;"	p	signature:(int ncid, int *parent_ncid)
+nc_inq_grpname	netcdf.h	/^nc_inq_grpname(int ncid, char *name);$/;"	p	signature:(int ncid, char *name)
+nc_inq_grpname_full	netcdf.h	/^nc_inq_grpname_full(int ncid, size_t *lenp, char *full_name);$/;"	p	signature:(int ncid, size_t *lenp, char *full_name)
+nc_inq_grpname_len	netcdf.h	/^nc_inq_grpname_len(int ncid, size_t *lenp);$/;"	p	signature:(int ncid, size_t *lenp)
+nc_inq_grps	netcdf.h	/^nc_inq_grps(int ncid, int *numgrps, int *ncids);$/;"	p	signature:(int ncid, int *numgrps, int *ncids)
+nc_inq_libvers	netcdf.h	/^nc_inq_libvers(void);$/;"	p	signature:(void)
+nc_inq_natts	netcdf.h	/^nc_inq_natts(int ncid, int *nattsp);$/;"	p	signature:(int ncid, int *nattsp)
+nc_inq_ncid	netcdf.h	/^nc_inq_ncid(int ncid, const char *name, int *grp_ncid);$/;"	p	signature:(int ncid, const char *name, int *grp_ncid)
+nc_inq_ndims	netcdf.h	/^nc_inq_ndims(int ncid, int *ndimsp);$/;"	p	signature:(int ncid, int *ndimsp)
+nc_inq_nvars	netcdf.h	/^nc_inq_nvars(int ncid, int *nvarsp);$/;"	p	signature:(int ncid, int *nvarsp)
+nc_inq_opaque	netcdf.h	/^nc_inq_opaque(int ncid, nc_type xtype, char *name, size_t *sizep);$/;"	p	signature:(int ncid, nc_type xtype, char *name, size_t *sizep)
+nc_inq_type	netcdf.h	/^nc_inq_type(int ncid, nc_type xtype, char *name, size_t *size);$/;"	p	signature:(int ncid, nc_type xtype, char *name, size_t *size)
+nc_inq_type_equal	netcdf.h	/^nc_inq_type_equal(int ncid1, nc_type typeid1, int ncid2, $/;"	p	signature:(int ncid1, nc_type typeid1, int ncid2, nc_type typeid2, int *equal)
+nc_inq_typeid	netcdf.h	/^nc_inq_typeid(int ncid, const char *name, nc_type *typeidp);$/;"	p	signature:(int ncid, const char *name, nc_type *typeidp)
+nc_inq_typeids	netcdf.h	/^nc_inq_typeids(int ncid, int *ntypes, int *typeids);$/;"	p	signature:(int ncid, int *ntypes, int *typeids)
+nc_inq_unlimdim	netcdf.h	/^nc_inq_unlimdim(int ncid, int *unlimdimidp);$/;"	p	signature:(int ncid, int *unlimdimidp)
+nc_inq_unlimdims	netcdf.h	/^nc_inq_unlimdims(int ncid, int *nunlimdimsp, int *unlimdimidsp);$/;"	p	signature:(int ncid, int *nunlimdimsp, int *unlimdimidsp)
+nc_inq_user_type	netcdf.h	/^nc_inq_user_type(int ncid, nc_type xtype, char *name, size_t *size, $/;"	p	signature:(int ncid, nc_type xtype, char *name, size_t *size, nc_type *base_nc_typep, size_t *nfieldsp, int *classp)
+nc_inq_var	netcdf.h	/^nc_inq_var(int ncid, int varid, char *name, nc_type *xtypep, $/;"	p	signature:(int ncid, int varid, char *name, nc_type *xtypep, int *ndimsp, int *dimidsp, int *nattsp)
+nc_inq_var_chunking	netcdf.h	/^nc_inq_var_chunking(int ncid, int varid, int *storagep, size_t *chunksizesp);$/;"	p	signature:(int ncid, int varid, int *storagep, size_t *chunksizesp)
+nc_inq_var_deflate	netcdf.h	/^nc_inq_var_deflate(int ncid, int varid, int *shufflep, $/;"	p	signature:(int ncid, int varid, int *shufflep, int *deflatep, int *deflate_levelp)
+nc_inq_var_endian	netcdf.h	/^nc_inq_var_endian(int ncid, int varid, int *endianp);$/;"	p	signature:(int ncid, int varid, int *endianp)
+nc_inq_var_fill	netcdf.h	/^nc_inq_var_fill(int ncid, int varid, int *no_fill, void *fill_value);$/;"	p	signature:(int ncid, int varid, int *no_fill, void *fill_value)
+nc_inq_var_fletcher32	netcdf.h	/^nc_inq_var_fletcher32(int ncid, int varid, int *fletcher32p);$/;"	p	signature:(int ncid, int varid, int *fletcher32p)
+nc_inq_var_szip	netcdf.h	/^nc_inq_var_szip(int ncid, int varid, int *options_maskp, int *pixels_per_blockp);$/;"	p	signature:(int ncid, int varid, int *options_maskp, int *pixels_per_blockp)
+nc_inq_vardimid	netcdf.h	/^nc_inq_vardimid(int ncid, int varid, int *dimidsp);$/;"	p	signature:(int ncid, int varid, int *dimidsp)
+nc_inq_varid	netcdf.h	/^nc_inq_varid(int ncid, const char *name, int *varidp);$/;"	p	signature:(int ncid, const char *name, int *varidp)
+nc_inq_varids	netcdf.h	/^nc_inq_varids(int ncid, int *nvars, int *varids);$/;"	p	signature:(int ncid, int *nvars, int *varids)
+nc_inq_varname	netcdf.h	/^nc_inq_varname(int ncid, int varid, char *name);$/;"	p	signature:(int ncid, int varid, char *name)
+nc_inq_varnatts	netcdf.h	/^nc_inq_varnatts(int ncid, int varid, int *nattsp);$/;"	p	signature:(int ncid, int varid, int *nattsp)
+nc_inq_varndims	netcdf.h	/^nc_inq_varndims(int ncid, int varid, int *ndimsp);$/;"	p	signature:(int ncid, int varid, int *ndimsp)
+nc_inq_vartype	netcdf.h	/^nc_inq_vartype(int ncid, int varid, nc_type *xtypep);$/;"	p	signature:(int ncid, int varid, nc_type *xtypep)
+nc_inq_vlen	netcdf.h	/^nc_inq_vlen(int ncid, nc_type xtype, char *name, size_t *datum_sizep, $/;"	p	signature:(int ncid, nc_type xtype, char *name, size_t *datum_sizep, nc_type *base_nc_typep)
+nc_insert_array_compound	netcdf.h	/^nc_insert_array_compound(int ncid, nc_type xtype, const char *name, $/;"	p	signature:(int ncid, nc_type xtype, const char *name, size_t offset, nc_type field_typeid, int ndims, const int *dim_sizes)
+nc_insert_compound	netcdf.h	/^nc_insert_compound(int ncid, nc_type xtype, const char *name, $/;"	p	signature:(int ncid, nc_type xtype, const char *name, size_t offset, nc_type field_typeid)
+nc_insert_enum	netcdf.h	/^nc_insert_enum(int ncid, nc_type xtype, const char *name, $/;"	p	signature:(int ncid, nc_type xtype, const char *name, const void *value)
+nc_open	netcdf.h	/^nc_open(const char *path, int mode, int *ncidp);$/;"	p	signature:(const char *path, int mode, int *ncidp)
+nc_open_par	netcdf.h	/^nc_open_par(const char *path, int mode, MPI_Comm comm, MPI_Info info,$/;"	p	signature:(const char *path, int mode, MPI_Comm comm, MPI_Info info, int *ncidp)
+nc_put_att	netcdf.h	/^nc_put_att(int ncid, int varid, const char *name, nc_type xtype, $/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const void *op)
+nc_put_att_double	netcdf.h	/^nc_put_att_double(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const double *op)
+nc_put_att_float	netcdf.h	/^nc_put_att_float(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const float *op)
+nc_put_att_int	netcdf.h	/^nc_put_att_int(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const int *op)
+nc_put_att_long	netcdf.h	/^nc_put_att_long(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const long *op)
+nc_put_att_longlong	netcdf.h	/^nc_put_att_longlong(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const long long *op)
+nc_put_att_schar	netcdf.h	/^nc_put_att_schar(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const signed char *op)
+nc_put_att_short	netcdf.h	/^nc_put_att_short(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const short *op)
+nc_put_att_string	netcdf.h	/^nc_put_att_string(int ncid, int varid, const char *name, $/;"	p	signature:(int ncid, int varid, const char *name, size_t len, const char **op)
+nc_put_att_text	netcdf.h	/^nc_put_att_text(int ncid, int varid, const char *name,$/;"	p	signature:(int ncid, int varid, const char *name, size_t len, const char *op)
+nc_put_att_ubyte	netcdf.h	/^nc_put_att_ubyte(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const unsigned char *op)
+nc_put_att_uchar	netcdf.h	/^nc_put_att_uchar(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const unsigned char *op)
+nc_put_att_uint	netcdf.h	/^nc_put_att_uint(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const unsigned int *op)
+nc_put_att_ulonglong	netcdf.h	/^nc_put_att_ulonglong(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const unsigned long long *op)
+nc_put_att_ushort	netcdf.h	/^nc_put_att_ushort(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, size_t len, const unsigned short *op)
+nc_put_var	netcdf.h	/^nc_put_var(int ncid, int varid,  const void *op);$/;"	p	signature:(int ncid, int varid, const void *op)
+nc_put_var1	netcdf.h	/^nc_put_var1(int ncid, int varid,  const size_t *indexp,$/;"	p	signature:(int ncid, int varid, const size_t *indexp, const void *op)
+nc_put_var1_double	netcdf.h	/^nc_put_var1_double(int ncid, int varid, const size_t *indexp, const double *op);$/;"	p	signature:(int ncid, int varid, const size_t *indexp, const double *op)
+nc_put_var1_float	netcdf.h	/^nc_put_var1_float(int ncid, int varid, const size_t *indexp, const float *op);$/;"	p	signature:(int ncid, int varid, const size_t *indexp, const float *op)
+nc_put_var1_int	netcdf.h	/^nc_put_var1_int(int ncid, int varid, const size_t *indexp, const int *op);$/;"	p	signature:(int ncid, int varid, const size_t *indexp, const int *op)
+nc_put_var1_long	netcdf.h	/^nc_put_var1_long(int ncid, int varid, const size_t *indexp, const long *op);$/;"	p	signature:(int ncid, int varid, const size_t *indexp, const long *op)
+nc_put_var1_longlong	netcdf.h	/^nc_put_var1_longlong(int ncid, int varid, const size_t *indexp, $/;"	p	signature:(int ncid, int varid, const size_t *indexp, const long long *op)
+nc_put_var1_schar	netcdf.h	/^nc_put_var1_schar(int ncid, int varid, const size_t *indexp,$/;"	p	signature:(int ncid, int varid, const size_t *indexp, const signed char *op)
+nc_put_var1_short	netcdf.h	/^nc_put_var1_short(int ncid, int varid, const size_t *indexp,$/;"	p	signature:(int ncid, int varid, const size_t *indexp, const short *op)
+nc_put_var1_string	netcdf.h	/^nc_put_var1_string(int ncid, int varid, const size_t *indexp, $/;"	p	signature:(int ncid, int varid, const size_t *indexp, const char **op)
+nc_put_var1_text	netcdf.h	/^nc_put_var1_text(int ncid, int varid, const size_t *indexp, const char *op);$/;"	p	signature:(int ncid, int varid, const size_t *indexp, const char *op)
+nc_put_var1_ubyte	netcdf.h	/^nc_put_var1_ubyte(int ncid, int varid, const size_t *indexp, $/;"	p	signature:(int ncid, int varid, const size_t *indexp, const unsigned char *op)
+nc_put_var1_uchar	netcdf.h	/^nc_put_var1_uchar(int ncid, int varid, const size_t *indexp,$/;"	p	signature:(int ncid, int varid, const size_t *indexp, const unsigned char *op)
+nc_put_var1_uint	netcdf.h	/^nc_put_var1_uint(int ncid, int varid, const size_t *indexp, $/;"	p	signature:(int ncid, int varid, const size_t *indexp, const unsigned int *op)
+nc_put_var1_ulonglong	netcdf.h	/^nc_put_var1_ulonglong(int ncid, int varid, const size_t *indexp, $/;"	p	signature:(int ncid, int varid, const size_t *indexp, const unsigned long long *op)
+nc_put_var1_ushort	netcdf.h	/^nc_put_var1_ushort(int ncid, int varid, const size_t *indexp, $/;"	p	signature:(int ncid, int varid, const size_t *indexp, const unsigned short *op)
+nc_put_var_double	netcdf.h	/^nc_put_var_double(int ncid, int varid, const double *op);$/;"	p	signature:(int ncid, int varid, const double *op)
+nc_put_var_float	netcdf.h	/^nc_put_var_float(int ncid, int varid, const float *op);$/;"	p	signature:(int ncid, int varid, const float *op)
+nc_put_var_int	netcdf.h	/^nc_put_var_int(int ncid, int varid, const int *op);$/;"	p	signature:(int ncid, int varid, const int *op)
+nc_put_var_long	netcdf.h	/^nc_put_var_long(int ncid, int varid, const long *op);$/;"	p	signature:(int ncid, int varid, const long *op)
+nc_put_var_longlong	netcdf.h	/^nc_put_var_longlong(int ncid, int varid, const long long *op);$/;"	p	signature:(int ncid, int varid, const long long *op)
+nc_put_var_schar	netcdf.h	/^nc_put_var_schar(int ncid, int varid, const signed char *op);$/;"	p	signature:(int ncid, int varid, const signed char *op)
+nc_put_var_short	netcdf.h	/^nc_put_var_short(int ncid, int varid, const short *op);$/;"	p	signature:(int ncid, int varid, const short *op)
+nc_put_var_string	netcdf.h	/^nc_put_var_string(int ncid, int varid, const char **op);$/;"	p	signature:(int ncid, int varid, const char **op)
+nc_put_var_text	netcdf.h	/^nc_put_var_text(int ncid, int varid, const char *op);$/;"	p	signature:(int ncid, int varid, const char *op)
+nc_put_var_ubyte	netcdf.h	/^nc_put_var_ubyte(int ncid, int varid, const unsigned char *op);$/;"	p	signature:(int ncid, int varid, const unsigned char *op)
+nc_put_var_uchar	netcdf.h	/^nc_put_var_uchar(int ncid, int varid, const unsigned char *op);$/;"	p	signature:(int ncid, int varid, const unsigned char *op)
+nc_put_var_uint	netcdf.h	/^nc_put_var_uint(int ncid, int varid, const unsigned int *op);$/;"	p	signature:(int ncid, int varid, const unsigned int *op)
+nc_put_var_ulonglong	netcdf.h	/^nc_put_var_ulonglong(int ncid, int varid, const unsigned long long *op);$/;"	p	signature:(int ncid, int varid, const unsigned long long *op)
+nc_put_var_ushort	netcdf.h	/^nc_put_var_ushort(int ncid, int varid, const unsigned short *op);$/;"	p	signature:(int ncid, int varid, const unsigned short *op)
+nc_put_vara	netcdf.h	/^nc_put_vara(int ncid, int varid,  const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const void *op)
+nc_put_vara_double	netcdf.h	/^nc_put_vara_double(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const double *op)
+nc_put_vara_float	netcdf.h	/^nc_put_vara_float(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const float *op)
+nc_put_vara_int	netcdf.h	/^nc_put_vara_int(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const int *op)
+nc_put_vara_long	netcdf.h	/^nc_put_vara_long(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const long *op)
+nc_put_vara_longlong	netcdf.h	/^nc_put_vara_longlong(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const long long *op)
+nc_put_vara_schar	netcdf.h	/^nc_put_vara_schar(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const signed char *op)
+nc_put_vara_short	netcdf.h	/^nc_put_vara_short(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const short *op)
+nc_put_vara_string	netcdf.h	/^nc_put_vara_string(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const char **op)
+nc_put_vara_text	netcdf.h	/^nc_put_vara_text(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const char *op)
+nc_put_vara_ubyte	netcdf.h	/^nc_put_vara_ubyte(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const unsigned char *op)
+nc_put_vara_uchar	netcdf.h	/^nc_put_vara_uchar(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const unsigned char *op)
+nc_put_vara_uint	netcdf.h	/^nc_put_vara_uint(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const unsigned int *op)
+nc_put_vara_ulonglong	netcdf.h	/^nc_put_vara_ulonglong(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const unsigned long long *op)
+nc_put_vara_ushort	netcdf.h	/^nc_put_vara_ushort(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const unsigned short *op)
+nc_put_varm	netcdf.h	/^nc_put_varm(int ncid, int varid,  const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, const void *op)
+nc_put_varm_double	netcdf.h	/^nc_put_varm_double(int ncid, int varid,	const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, const double *op)
+nc_put_varm_float	netcdf.h	/^nc_put_varm_float(int ncid, int varid,const size_t *startp, $/;"	p	signature:(int ncid, int varid,const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, const float *op)
+nc_put_varm_int	netcdf.h	/^nc_put_varm_int(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, const int *op)
+nc_put_varm_long	netcdf.h	/^nc_put_varm_long(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, const long *op)
+nc_put_varm_longlong	netcdf.h	/^nc_put_varm_longlong(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, const long long *op)
+nc_put_varm_schar	netcdf.h	/^nc_put_varm_schar(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, const signed char *op)
+nc_put_varm_short	netcdf.h	/^nc_put_varm_short(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, const short *op)
+nc_put_varm_string	netcdf.h	/^nc_put_varm_string(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, const char **op)
+nc_put_varm_text	netcdf.h	/^nc_put_varm_text(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, const char *op)
+nc_put_varm_ubyte	netcdf.h	/^nc_put_varm_ubyte(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, const unsigned char *op)
+nc_put_varm_uchar	netcdf.h	/^nc_put_varm_uchar(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t *imapp, const unsigned char *op)
+nc_put_varm_uint	netcdf.h	/^nc_put_varm_uint(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, const unsigned int *op)
+nc_put_varm_ulonglong	netcdf.h	/^nc_put_varm_ulonglong(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, const unsigned long long *op)
+nc_put_varm_ushort	netcdf.h	/^nc_put_varm_ushort(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const ptrdiff_t * imapp, const unsigned short *op)
+nc_put_vars	netcdf.h	/^nc_put_vars(int ncid, int varid,  const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const void *op)
+nc_put_vars_double	netcdf.h	/^nc_put_vars_double(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const double *op)
+nc_put_vars_float	netcdf.h	/^nc_put_vars_float(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const float *op)
+nc_put_vars_int	netcdf.h	/^nc_put_vars_int(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const int *op)
+nc_put_vars_long	netcdf.h	/^nc_put_vars_long(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const long *op)
+nc_put_vars_longlong	netcdf.h	/^nc_put_vars_longlong(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const long long *op)
+nc_put_vars_schar	netcdf.h	/^nc_put_vars_schar(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const signed char *op)
+nc_put_vars_short	netcdf.h	/^nc_put_vars_short(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const short *op)
+nc_put_vars_string	netcdf.h	/^nc_put_vars_string(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const char **op)
+nc_put_vars_text	netcdf.h	/^nc_put_vars_text(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const char *op)
+nc_put_vars_ubyte	netcdf.h	/^nc_put_vars_ubyte(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const unsigned char *op)
+nc_put_vars_uchar	netcdf.h	/^nc_put_vars_uchar(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const unsigned char *op)
+nc_put_vars_uint	netcdf.h	/^nc_put_vars_uint(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const unsigned int *op)
+nc_put_vars_ulonglong	netcdf.h	/^nc_put_vars_ulonglong(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const unsigned long long *op)
+nc_put_vars_ushort	netcdf.h	/^nc_put_vars_ushort(int ncid, int varid, const size_t *startp, $/;"	p	signature:(int ncid, int varid, const size_t *startp, const size_t *countp, const ptrdiff_t *stridep, const unsigned short *op)
+nc_put_vlen_element	netcdf.h	/^nc_put_vlen_element(int ncid, int typeid1, void *vlen_element, $/;"	p	signature:(int ncid, int typeid1, void *vlen_element, size_t len, const void *data)
+nc_redef	netcdf.h	/^nc_redef(int ncid);$/;"	p	signature:(int ncid)
+nc_rename_att	netcdf.h	/^nc_rename_att(int ncid, int varid, const char *name, const char *newname);$/;"	p	signature:(int ncid, int varid, const char *name, const char *newname)
+nc_rename_dim	netcdf.h	/^nc_rename_dim(int ncid, int dimid, const char *name);$/;"	p	signature:(int ncid, int dimid, const char *name)
+nc_rename_var	netcdf.h	/^nc_rename_var(int ncid, int varid, const char *name);$/;"	p	signature:(int ncid, int varid, const char *name)
+nc_set_base_pe	netcdf.h	/^nc_set_base_pe(int ncid, int pe);$/;"	p	signature:(int ncid, int pe)
+nc_set_chunk_cache	netcdf.h	/^nc_set_chunk_cache(size_t size, size_t nelems, float preemption);$/;"	p	signature:(size_t size, size_t nelems, float preemption)
+nc_set_default_format	netcdf.h	/^nc_set_default_format(int format, int *old_formatp);$/;"	p	signature:(int format, int *old_formatp)
+nc_set_fill	netcdf.h	/^nc_set_fill(int ncid, int fillmode, int *old_modep);$/;"	p	signature:(int ncid, int fillmode, int *old_modep)
+nc_set_log_level	netcdf.h	/^nc_set_log_level(int new_level);$/;"	p	signature:(int new_level)
+nc_set_log_level	netcdf.h	1608;"	d
+nc_set_var_chunk_cache	netcdf.h	/^nc_set_var_chunk_cache(int ncid, int varid, size_t size, size_t nelems, $/;"	p	signature:(int ncid, int varid, size_t size, size_t nelems, float preemption)
+nc_show_metadata	netcdf.h	/^nc_show_metadata(int ncid);$/;"	p	signature:(int ncid)
+nc_show_metadata	netcdf.h	1607;"	d
+nc_strerror	netcdf.h	/^nc_strerror(int ncerr);$/;"	p	signature:(int ncerr)
+nc_sync	netcdf.h	/^nc_sync(int ncid);$/;"	p	signature:(int ncid)
+nc_type	netcdf.h	/^typedef int nc_type;$/;"	t
+nc_var_par_access	netcdf.h	/^nc_var_par_access(int ncid, int varid, int par_access);$/;"	p	signature:(int ncid, int varid, int par_access)
+nc_vlen_t	netcdf.h	/^} nc_vlen_t;$/;"	t	typeref:struct:__anon1
+ncabort	netcdf.h	/^ncabort(int ncid);$/;"	p	signature:(int ncid)
+ncattcopy	netcdf.h	/^ncattcopy(int ncid_in, int varid_in, const char *name, int ncid_out,$/;"	p	signature:(int ncid_in, int varid_in, const char *name, int ncid_out, int varid_out)
+ncattdel	netcdf.h	/^ncattdel(int ncid, int varid, const char *name);$/;"	p	signature:(int ncid, int varid, const char *name)
+ncattget	netcdf.h	/^ncattget(int ncid, int varid, const char *name, void *ip);$/;"	p	signature:(int ncid, int varid, const char *name, void *ip)
+ncattinq	netcdf.h	/^ncattinq(int ncid, int varid, const char *name, nc_type *xtypep, int *lenp);$/;"	p	signature:(int ncid, int varid, const char *name, nc_type *xtypep, int *lenp)
+ncattname	netcdf.h	/^ncattname(int ncid, int varid, int attnum, char *name);$/;"	p	signature:(int ncid, int varid, int attnum, char *name)
+ncattput	netcdf.h	/^ncattput(int ncid, int varid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, int varid, const char *name, nc_type xtype, int len, const void *op)
+ncattrename	netcdf.h	/^ncattrename(int ncid, int varid, const char *name, const char *newname);$/;"	p	signature:(int ncid, int varid, const char *name, const char *newname)
+ncbyte	ncvalues.h	/^typedef signed char ncbyte;$/;"	t
+nccf_add_history	libcf.h	/^   int nccf_add_history(int ncid, const char *history);$/;"	p	signature:(int ncid, const char *history)
+nccf_assign_coord_system	libcf.h	/^   int nccf_assign_coord_system(int ncid, int varid, int system_varid);$/;"	p	signature:(int ncid, int varid, int system_varid)
+nccf_assign_transform	libcf.h	/^   int nccf_assign_transform(int ncid, int system_varid, int transform_varid);$/;"	p	signature:(int ncid, int system_varid, int transform_varid)
+nccf_def_axis_type	libcf.h	/^   int nccf_def_axis_type(int ncid, int varid, int axis_type);$/;"	p	signature:(int ncid, int varid, int axis_type)
+nccf_def_convention	libcf.h	/^   int nccf_def_convention(int ncid);$/;"	p	signature:(int ncid)
+nccf_def_coord_system	libcf.h	/^   int nccf_def_coord_system(int ncid, const char *name, int naxes, int *axis_varids, $/;"	p	signature:(int ncid, const char *name, int naxes, int *axis_varids, int *system_varid)
+nccf_def_file	libcf.h	/^   int nccf_def_file(int ncid, const char *title, const char *history);$/;"	p	signature:(int ncid, const char *title, const char *history)
+nccf_def_ft_hybrid_height	libcf.h	/^   int nccf_def_ft_hybrid_height(int ncid, int varid, int a_varid, int b_varid, $/;"	p	signature:(int ncid, int varid, int a_varid, int b_varid, int orog_varid)
+nccf_def_ft_hybrid_sigma	libcf.h	/^   int nccf_def_ft_hybrid_sigma(int ncid, int lvl_vid, int a_vid, int b_vid, int ps_vid, $/;"	p	signature:(int ncid, int lvl_vid, int a_vid, int b_vid, int ps_vid, int p0_vid)
+nccf_def_ft_hybrid_sigma_full	libcf.h	/^   int nccf_def_ft_hybrid_sigma_full(int ncid, int varid, int a_varid, int b_varid, $/;"	p	signature:(int ncid, int varid, int a_varid, int b_varid, int ps_varid, int p0_varid)
+nccf_def_ft_ocean_dbl_sigma	libcf.h	/^   int nccf_def_ft_ocean_dbl_sigma(int ncid, int varid, int depth_varid, int z1_varid, $/;"	p	signature:(int ncid, int varid, int depth_varid, int z1_varid, int z2_varid, int a_varid, int href_varid, int k_c_varid)
+nccf_def_ft_ocean_s	libcf.h	/^   int nccf_def_ft_ocean_s(int ncid, int varid, int eta_varid, int depth_varid, $/;"	p	signature:(int ncid, int varid, int eta_varid, int depth_varid, int a_varid, int b_varid, int depth_c_varid)
+nccf_def_ft_ocean_sigma	libcf.h	/^   int nccf_def_ft_ocean_sigma(int ncid, int varid, int eta_varid, int depth_varid);$/;"	p	signature:(int ncid, int varid, int eta_varid, int depth_varid)
+nccf_def_ft_ocean_sigma_z	libcf.h	/^   int nccf_def_ft_ocean_sigma_z(int ncid, int varid, int eta_varid, int depth_varid,$/;"	p	signature:(int ncid, int varid, int eta_varid, int depth_varid, int depth_c_varid, int nsigma_varid, int zlev_varid)
+nccf_def_ft_sigma	libcf.h	/^   int nccf_def_ft_sigma(int ncid, int lvl_vid, int ps_vid, int p0_vid);$/;"	p	signature:(int ncid, int lvl_vid, int ps_vid, int p0_vid)
+nccf_def_ft_sleve	libcf.h	/^   int nccf_def_ft_sleve(int ncid, int varid, int a_varid, int b1_varid, int b2_varid, $/;"	p	signature:(int ncid, int varid, int a_varid, int b1_varid, int b2_varid, int ztop_varid, int zsurf1_varid, int zsurf2_varid)
+nccf_def_latitude	libcf.h	/^   int nccf_def_latitude(int ncid, size_t len, nc_type xtype, $/;"	p	signature:(int ncid, size_t len, nc_type xtype, int *lat_dimidp, int *lat_varidp)
+nccf_def_longitude	libcf.h	/^   int nccf_def_longitude(int ncid, size_t len, nc_type xtype, $/;"	p	signature:(int ncid, size_t len, nc_type xtype, int *lon_dimidp, int *lon_varidp)
+nccf_def_lvl	libcf.h	/^   int nccf_def_lvl(int ncid, const char *name, size_t len, nc_type xtype, $/;"	p	signature:(int ncid, const char *name, size_t len, nc_type xtype, const char *units, int positive_up, const char *standard_name, const char *formula_terms, int cdm_axis_type, int *lvl_dimidp, int *lvl_varidp)
+nccf_def_lvl_hybrid_height	libcf.h	/^   int nccf_def_lvl_hybrid_height(int ncid, const char *name, nc_type xtype, size_t len,$/;"	p	signature:(int ncid, const char *name, nc_type xtype, size_t len, int *lvl_dimidp, int *lvl_varidp)
+nccf_def_lvl_hybrid_sigma	libcf.h	/^   int nccf_def_lvl_hybrid_sigma(int ncid, const char *name, nc_type xtype, $/;"	p	signature:(int ncid, const char *name, nc_type xtype, size_t len, int *lvl_dimidp, int *lvl_varidp)
+nccf_def_lvl_hybrid_sigma_full	libcf.h	/^   int nccf_def_lvl_hybrid_sigma_full(int ncid, const char *name, nc_type xtype, $/;"	p	signature:(int ncid, const char *name, nc_type xtype, size_t len, int *lvl_dimidp, int *lvl_varidp)
+nccf_def_lvl_ocean_dbl_sigma	libcf.h	/^   int nccf_def_lvl_ocean_dbl_sigma(int ncid, const char *name, nc_type xtype, size_t len,$/;"	p	signature:(int ncid, const char *name, nc_type xtype, size_t len, int *lvl_dimidp, int *lvl_varidp)
+nccf_def_lvl_ocean_s	libcf.h	/^   int nccf_def_lvl_ocean_s(int ncid, const char *name, nc_type xtype, size_t len,$/;"	p	signature:(int ncid, const char *name, nc_type xtype, size_t len, int *lvl_dimidp, int *lvl_varidp)
+nccf_def_lvl_ocean_sigma	libcf.h	/^   int nccf_def_lvl_ocean_sigma(int ncid, const char *name, nc_type xtype, size_t len,$/;"	p	signature:(int ncid, const char *name, nc_type xtype, size_t len, int *lvl_dimidp, int *lvl_varidp)
+nccf_def_lvl_ocean_sigma_z	libcf.h	/^   int nccf_def_lvl_ocean_sigma_z(int ncid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, const char *name, nc_type xtype, size_t len, int *lvl_dimidp, int *lvl_varidp)
+nccf_def_lvl_sigma	libcf.h	/^   int nccf_def_lvl_sigma(int ncid, const char *name, nc_type xtype, $/;"	p	signature:(int ncid, const char *name, nc_type xtype, size_t len, int *lvl_dimidp, int *lvl_varidp)
+nccf_def_lvl_sleve	libcf.h	/^   int nccf_def_lvl_sleve(int ncid, const char *name, nc_type xtype, size_t len, $/;"	p	signature:(int ncid, const char *name, nc_type xtype, size_t len, int *lvl_dimidp, int *lvl_varidp)
+nccf_def_lvl_vert	libcf.h	/^   int nccf_def_lvl_vert(int ncid, int lvl_type, const char *name, nc_type xtype, $/;"	p	signature:(int ncid, int lvl_type, const char *name, nc_type xtype, size_t len, int *lvl_dimidp, int *lvl_varidp)
+nccf_def_notes	libcf.h	/^   int nccf_def_notes(int ncid, int varid, const char *institution, $/;"	p	signature:(int ncid, int varid, const char *institution, const char *source, const char *comment, const char *references)
+nccf_def_time	libcf.h	/^   int nccf_def_time(int ncid, const char *name, size_t len, nc_type xtype, $/;"	p	signature:(int ncid, const char *name, size_t len, nc_type xtype, const char *units, const char *standard_name, int *time_dimidp, int *time_varidp)
+nccf_def_transform	libcf.h	/^   int nccf_def_transform(int ncid, const char *name, const char *transform_type, $/;"	p	signature:(int ncid, const char *name, const char *transform_type, const char *transform_name, int *transform_varid)
+nccf_def_var	libcf.h	/^   int nccf_def_var(int ncid, int varid, const char *units, $/;"	p	signature:(int ncid, int varid, const char *units, const char *long_name, const char *standard_name, int ncoord_vars, int *coord_varids)
+nccf_def_var_missing	libcf.h	/^   int nccf_def_var_missing(int ncid, int varid, const void *fill_value, $/;"	p	signature:(int ncid, int varid, const void *fill_value, const void *valid_min, const void *valid_max)
+nccf_def_var_missing	libcf.h	/^   int nccf_def_var_missing(int ncid, int varid, const void *fill_valuep, $/;"	p	signature:(int ncid, int varid, const void *fill_valuep, const void *valid_minp, const void *valid_maxp)
+nccf_get_vara	libcf.h	/^   int nccf_get_vara(int ncid, int varid, float *lat_range, int *nlat, float *lon_range, $/;"	p	signature:(int ncid, int varid, float *lat_range, int *nlat, float *lon_range, int *nlon, int lvl_index, int timestep, void *data)
+nccf_inq_axis_type	libcf.h	/^   int nccf_inq_axis_type(int ncid, int varid, int *axis_type);$/;"	p	signature:(int ncid, int varid, int *axis_type)
+nccf_inq_convention	libcf.h	/^   int nccf_inq_convention(int ncid, int *cf_convention);$/;"	p	signature:(int ncid, int *cf_convention)
+nccf_inq_coord_system	libcf.h	/^   int nccf_inq_coord_system(int ncid, int system_varid, char *name, $/;"	p	signature:(int ncid, int system_varid, char *name, int *naxes, int *axis_varids)
+nccf_inq_file	libcf.h	/^   int nccf_inq_file(int ncid, size_t *title_lenp, char *title, $/;"	p	signature:(int ncid, size_t *title_lenp, char *title, size_t *history_lenp, char *history)
+nccf_inq_latitude	libcf.h	/^   int nccf_inq_latitude(int ncid, size_t *lenp, nc_type *xtypep, $/;"	p	signature:(int ncid, size_t *lenp, nc_type *xtypep, int *lat_dimidp, int *lat_varidp)
+nccf_inq_libvers	libcf.h	/^   int nccf_inq_libvers(char *version_string);$/;"	p	signature:(char *version_string)
+nccf_inq_longitude	libcf.h	/^   int nccf_inq_longitude(int ncid, size_t *lenp, nc_type *xtypep, $/;"	p	signature:(int ncid, size_t *lenp, nc_type *xtypep, int *lon_dimidp, int *lon_varidp)
+nccf_inq_lvl	libcf.h	/^   int nccf_inq_lvl(int ncid, char *name, size_t *lenp, nc_type *xtypep, $/;"	p	signature:(int ncid, char *name, size_t *lenp, nc_type *xtypep, size_t *ft_lenp, char *formula_terms, int *positive_upp, int *lvl_dimidp, int *lvl_varidp)
+nccf_inq_lvl_hybrid_height	libcf.h	/^   int nccf_inq_lvl_hybrid_height(int ncid, char *name, nc_type *xtypep, size_t *lenp,$/;"	p	signature:(int ncid, char *name, nc_type *xtypep, size_t *lenp, int *a_varidp, int *b_varidp, int *orog_varidp, int *lvl_dimidp, int *lvl_varidp)
+nccf_inq_lvl_hybrid_sigma	libcf.h	/^   int nccf_inq_lvl_hybrid_sigma(int ncid, char *name, nc_type *xtypep, $/;"	p	signature:(int ncid, char *name, nc_type *xtypep, size_t *lenp, int *a_varidp, int *b_varidp, int *ps_varidp, int *p0_varidp, int *lvl_dimidp, int *lvl_varidp)
+nccf_inq_lvl_ocean_dbl_sigma	libcf.h	/^   int nccf_inq_lvl_ocean_dbl_sigma(int ncid, char *name, nc_type *xtypep, size_t *lenp,$/;"	p	signature:(int ncid, char *name, nc_type *xtypep, size_t *lenp, int *depth_varidp, int *z1_varidp, int *z2_varidp, int *a_varidp, int *href_varidp, int *k_c_varidp, int *lvl_dimidp, int *lvl_varidp)
+nccf_inq_lvl_ocean_s	libcf.h	/^   int nccf_inq_lvl_ocean_s(int ncid, char *name, nc_type *xtypep, size_t *lenp,$/;"	p	signature:(int ncid, char *name, nc_type *xtypep, size_t *lenp, int *eta_varidp, int *depth_varidp, int *a_varidp, int *b_varidp, int *depth_c_varidp, int *lvl_dimidp, int *lvl_varidp)
+nccf_inq_lvl_ocean_sigma	libcf.h	/^   int nccf_inq_lvl_ocean_sigma(int ncid, char *name, nc_type *xtypep, size_t *lenp,$/;"	p	signature:(int ncid, char *name, nc_type *xtypep, size_t *lenp, int *eta_varidp, int *depth_varidp, int *lvl_dimidp, int *lvl_varidp)
+nccf_inq_lvl_ocean_sigma_z	libcf.h	/^   int nccf_inq_lvl_ocean_sigma_z(int ncid, char *name, nc_type *xtypep, size_t *lenp,$/;"	p	signature:(int ncid, char *name, nc_type *xtypep, size_t *lenp, int *eta_varidp, int *depth_varidp, int *depth_c_varidp, int *nsigma_varidp, int *zlev_varidp, int *lvl_dimidp, int *lvl_varidp)
+nccf_inq_lvl_sigma	libcf.h	/^   int nccf_inq_lvl_sigma(int ncid, char *name, nc_type *xtypep, size_t *lenp, $/;"	p	signature:(int ncid, char *name, nc_type *xtypep, size_t *lenp, int *ps_varidp, int *ptop_varidp, int *lvl_dimidp, int *lvl_varidp)
+nccf_inq_lvl_sleve	libcf.h	/^   int nccf_inq_lvl_sleve(int ncid, char *name, nc_type *xtypep, size_t *lenp,$/;"	p	signature:(int ncid, char *name, nc_type *xtypep, size_t *lenp, int *a_varidp, int *b1_varidp, int *b2_varidp, int *ztop_varidp, int *zsurf1_varidp, int *zsurf2_varidp, int *lvl_dimidp, int *lvl_varidp)
+nccf_inq_lvl_vert	libcf.h	/^   int nccf_inq_lvl_vert(int ncid, char *name, nc_type *xtypep, size_t *lenp, $/;"	p	signature:(int ncid, char *name, nc_type *xtypep, size_t *lenp, int *lvl_typep, int *lvl_dimidp, int *lvl_varidp)
+nccf_inq_notes	libcf.h	/^   int nccf_inq_notes(int ncid, int varid,$/;"	p	signature:(int ncid, int varid, size_t *institution_lenp, char *institution, size_t *source_lenp, char *source, size_t *comment_lenp, char *comment, size_t *references_lenp, char *references)
+nccf_inq_time	libcf.h	/^   int nccf_inq_time(int ncid, char *name, size_t *lenp, nc_type *xtypep, $/;"	p	signature:(int ncid, char *name, size_t *lenp, nc_type *xtypep, int *time_dimidp, int *time_varidp)
+nccf_inq_transform	libcf.h	/^   int nccf_inq_transform(int ncid, int transform_varid, char *name, size_t *type_len, $/;"	p	signature:(int ncid, int transform_varid, char *name, size_t *type_len, char *transform_type, size_t *name_len, char *transform_name)
+nccf_inq_var	libcf.h	/^   int nccf_inq_var(int ncid, int varid, size_t *units_lenp, char *units, $/;"	p	signature:(int ncid, int varid, size_t *units_lenp, char *units, size_t *long_name_lenp, char *long_name, size_t *standard_name_lenp, char *standard_name, int *ncoord_vars, int *coord_varids)
+nccf_inq_var_missing	libcf.h	/^   int nccf_inq_var_missing(int ncid, int varid, void *fill_value, $/;"	p	signature:(int ncid, int varid, void *fill_value, void *valid_min, void *valid_max)
+nccf_inq_var_missing	libcf.h	/^   int nccf_inq_var_missing(int ncid, int varid, void *fill_valuep, $/;"	p	signature:(int ncid, int varid, void *fill_valuep, void *valid_minp, void *valid_maxp)
+ncclose	netcdf.h	/^ncclose(int ncid);$/;"	p	signature:(int ncid)
+nccreate	netcdf.h	/^nccreate(const char* path, int cmode);$/;"	p	signature:(const char* path, int cmode)
+ncdimdef	netcdf.h	/^ncdimdef(int ncid, const char *name, long len);$/;"	p	signature:(int ncid, const char *name, long len)
+ncdimid	netcdf.h	/^ncdimid(int ncid, const char *name);$/;"	p	signature:(int ncid, const char *name)
+ncdiminq	netcdf.h	/^ncdiminq(int ncid, int dimid, char *name, long *lenp);$/;"	p	signature:(int ncid, int dimid, char *name, long *lenp)
+ncdimrename	netcdf.h	/^ncdimrename(int ncid, int dimid, const char *name);$/;"	p	signature:(int ncid, int dimid, const char *name)
+ncendef	netcdf.h	/^ncendef(int ncid);$/;"	p	signature:(int ncid)
+ncerr	netcdf.h	/^EXTERNL int ncerr;$/;"	v
+ncerr	netcdf.h	/^MSC_EXTRA int ncerr;$/;"	v
+ncerr	netcdfcpp.h	/^    static int ncerr;$/;"	m	class:NcError	access:private
+ncinquire	netcdf.h	/^ncinquire(int ncid, int *ndimsp, int *nvarsp, int *nattsp, int *unlimdimp);$/;"	p	signature:(int ncid, int *ndimsp, int *nvarsp, int *nattsp, int *unlimdimp)
+nclong	ncvalues.h	/^typedef int nclong;$/;"	t
+nclong	netcdf.h	/^typedef int nclong;$/;"	t
+ncopen	netcdf.h	/^ncopen(const char* path, int mode);$/;"	p	signature:(const char* path, int mode)
+ncopts	netcdf.h	/^EXTERNL int ncopts;	\/* default is (NC_FATAL | NC_VERBOSE) *\/$/;"	v
+ncopts	netcdf.h	/^MSC_EXTRA int ncopts;$/;"	v
+ncopts	netcdfcpp.h	/^    static int ncopts;$/;"	m	class:NcError	access:private
+ncrecget	netcdf.h	/^ncrecget(int ncid, long recnum, void **datap);$/;"	p	signature:(int ncid, long recnum, void **datap)
+ncrecinq	netcdf.h	/^ncrecinq(int ncid, int *nrecvarsp, int *recvaridsp, long *recsizesp);$/;"	p	signature:(int ncid, int *nrecvarsp, int *recvaridsp, long *recsizesp)
+ncrecput	netcdf.h	/^ncrecput(int ncid, long recnum, void *const *datap);$/;"	p	signature:(int ncid, long recnum, void *const *datap)
+ncredef	netcdf.h	/^ncredef(int ncid);$/;"	p	signature:(int ncid)
+ncsetfill	netcdf.h	/^ncsetfill(int ncid, int fillmode);$/;"	p	signature:(int ncid, int fillmode)
+ncsync	netcdf.h	/^ncsync(int ncid);$/;"	p	signature:(int ncid)
+nctypelen	netcdf.h	/^nctypelen(nc_type datatype);$/;"	p	signature:(nc_type datatype)
+ncvarcpy	netcdf.h	994;"	d
+ncvardef	netcdf.h	/^ncvardef(int ncid, const char *name, nc_type xtype,$/;"	p	signature:(int ncid, const char *name, nc_type xtype, int ndims, const int *dimidsp)
+ncvarget	netcdf.h	/^ncvarget(int ncid, int varid, const long *startp, const long *countp, $/;"	p	signature:(int ncid, int varid, const long *startp, const long *countp, void *ip)
+ncvarget1	netcdf.h	/^ncvarget1(int ncid, int varid, const long *indexp, void *ip);$/;"	p	signature:(int ncid, int varid, const long *indexp, void *ip)
+ncvargetg	netcdf.h	/^ncvargetg(int ncid, int varid, const long *startp, const long *countp,$/;"	p	signature:(int ncid, int varid, const long *startp, const long *countp, const long *stridep, const long *imapp, void *ip)
+ncvargets	netcdf.h	/^ncvargets(int ncid, int varid, const long *startp, const long *countp,$/;"	p	signature:(int ncid, int varid, const long *startp, const long *countp, const long *stridep, void *ip)
+ncvarid	netcdf.h	/^ncvarid(int ncid, const char *name);$/;"	p	signature:(int ncid, const char *name)
+ncvarinq	netcdf.h	/^ncvarinq(int ncid, int varid, char *name, nc_type *xtypep,$/;"	p	signature:(int ncid, int varid, char *name, nc_type *xtypep, int *ndimsp, int *dimidsp, int *nattsp)
+ncvarput	netcdf.h	/^ncvarput(int ncid, int varid, const long *startp, const long *countp,$/;"	p	signature:(int ncid, int varid, const long *startp, const long *countp, const void *op)
+ncvarput1	netcdf.h	/^ncvarput1(int ncid, int varid, const long *indexp, const void *op);$/;"	p	signature:(int ncid, int varid, const long *indexp, const void *op)
+ncvarputg	netcdf.h	/^ncvarputg(int ncid, int varid, const long *startp, const long *countp,$/;"	p	signature:(int ncid, int varid, const long *startp, const long *countp, const long *stridep, const long *imapp, const void *op)
+ncvarputs	netcdf.h	/^ncvarputs(int ncid, int varid, const long *startp, const long *countp,$/;"	p	signature:(int ncid, int varid, const long *startp, const long *countp, const long *stridep, const void *op)
+ncvarrename	netcdf.h	/^ncvarrename(int ncid, int varid, const char *name);$/;"	p	signature:(int ncid, int varid, const char *name)
+num	ncvalues.h	/^    virtual long num( void );$/;"	p	class:NcValues	access:public	signature:( void )
+num_atts	netcdfcpp.h	/^    int num_atts( void ) const;            \/\/ number of (global) attributes$/;"	p	class:NcFile	access:public	signature:( void ) const
+num_atts	netcdfcpp.h	/^    int num_atts( void ) const;         \/\/ number of attributes$/;"	p	class:NcVar	access:public	signature:( void ) const
+num_dims	netcdfcpp.h	/^    int num_dims( void ) const;            \/\/ number of dimensions$/;"	p	class:NcFile	access:public	signature:( void ) const
+num_dims	netcdfcpp.h	/^    int num_dims( void ) const;         \/\/ dimensionality of variable$/;"	p	class:NcVar	access:public	signature:( void ) const
+num_vals	netcdfcpp.h	/^    long num_vals( void ) const;        \/\/ product of dimension sizes$/;"	p	class:NcVar	access:public	signature:( void ) const
+num_vals	netcdfcpp.h	/^    long num_vals( void ) const; $/;"	p	class:NcAtt	access:public	signature:( void ) const
+num_vals	netcdfcpp.h	/^    virtual long num_vals( void ) const = 0; $/;"	p	class:NcTypedComponent	access:public	signature:( void ) const
+num_vars	netcdfcpp.h	/^    int num_vars( void ) const;            \/\/ number of variables$/;"	p	class:NcFile	access:public	signature:( void ) const
+operator <<	ncvalues.h	/^    friend std::ostream& operator<< (std::ostream&, const NcValues&);$/;"	p	class:NcValues	access:friend	signature:(std::ostream&, const NcValues&)
+p	netcdf.h	/^    void *p;    \/* Pointer to VL data *\/$/;"	m	struct:__anon1	access:public
+print	ncvalues.h	/^    virtual std::ostream& print(std::ostream&) const = 0;$/;"	p	class:NcValues	access:public	signature:(std::ostream&) const
+put	netcdfcpp.h	/^    NcBool put( const char* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const char* vals, const long* counts )
+put	netcdfcpp.h	/^    NcBool put( const char* vals,$/;"	p	class:NcVar	access:public	signature:( const char* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+put	netcdfcpp.h	/^    NcBool put( const double* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const double* vals, const long* counts )
+put	netcdfcpp.h	/^    NcBool put( const double* vals,$/;"	p	class:NcVar	access:public	signature:( const double* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+put	netcdfcpp.h	/^    NcBool put( const float* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const float* vals, const long* counts )
+put	netcdfcpp.h	/^    NcBool put( const float* vals,$/;"	p	class:NcVar	access:public	signature:( const float* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+put	netcdfcpp.h	/^    NcBool put( const int* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const int* vals, const long* counts )
+put	netcdfcpp.h	/^    NcBool put( const int* vals,$/;"	p	class:NcVar	access:public	signature:( const int* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+put	netcdfcpp.h	/^    NcBool put( const long* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const long* vals, const long* counts )
+put	netcdfcpp.h	/^    NcBool put( const long* vals,$/;"	p	class:NcVar	access:public	signature:( const long* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+put	netcdfcpp.h	/^    NcBool put( const ncbyte* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const ncbyte* vals, const long* counts )
+put	netcdfcpp.h	/^    NcBool put( const ncbyte* vals,$/;"	p	class:NcVar	access:public	signature:( const ncbyte* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+put	netcdfcpp.h	/^    NcBool put( const short* vals, const long* counts );$/;"	p	class:NcVar	access:public	signature:( const short* vals, const long* counts )
+put	netcdfcpp.h	/^    NcBool put( const short* vals,$/;"	p	class:NcVar	access:public	signature:( const short* vals, long c0=0, long c1=0, long c2=0, long c3=0, long c4=0 )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const char* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const char* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const char* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const char* vals, long slice )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const double* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const double* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const double* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const double* vals, long slice )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const float* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const float* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const float* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const float* vals, long slice )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const int* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const int* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const int* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const int* vals, long slice )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const long* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const long* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const long* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const long* vals, long slice )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const ncbyte* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const ncbyte* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const ncbyte* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const ncbyte* vals, long slice )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const short* vals );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const short* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( NcDim* d, const short* vals, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, const short* vals, long slice )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const char* vals );$/;"	p	class:NcVar	access:public	signature:( const char* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const char* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const char* vals, long rec )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const double* vals );$/;"	p	class:NcVar	access:public	signature:( const double* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const double* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const double* vals, long rec )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const float* vals );$/;"	p	class:NcVar	access:public	signature:( const float* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const float* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const float* vals, long rec )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const int* vals );$/;"	p	class:NcVar	access:public	signature:( const int* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const int* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const int* vals, long rec )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const long* vals );$/;"	p	class:NcVar	access:public	signature:( const long* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const long* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const long* vals, long rec )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const ncbyte* vals );$/;"	p	class:NcVar	access:public	signature:( const ncbyte* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const ncbyte* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const ncbyte* vals, long rec )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const short* vals );$/;"	p	class:NcVar	access:public	signature:( const short* vals )
+put_rec	netcdfcpp.h	/^    NcBool put_rec( const short* vals, long rec );$/;"	p	class:NcVar	access:public	signature:( const short* vals, long rec )
+rec_dim	netcdfcpp.h	/^    NcDim* rec_dim( void ) const;          \/\/ unlimited dimension, if any$/;"	p	class:NcFile	access:public	signature:( void ) const
+rec_size	netcdfcpp.h	/^    long rec_size ( NcDim* );           \/\/ number of values per dimension slice$/;"	p	class:NcVar	access:public	signature:( NcDim* )
+rec_size	netcdfcpp.h	/^    long rec_size ( void );             \/\/ number of values per record$/;"	p	class:NcVar	access:public	signature:( void )
+remove	netcdfcpp.h	/^    NcBool remove( void );$/;"	p	class:NcAtt	access:public	signature:( void )
+rename	netcdfcpp.h	/^    NcBool rename( NcToken newname );$/;"	p	class:NcAtt	access:public	signature:( NcToken newname )
+rename	netcdfcpp.h	/^    NcBool rename( NcToken newname );$/;"	p	class:NcDim	access:public	signature:( NcToken newname )
+rename	netcdfcpp.h	/^    NcBool rename( NcToken newname );$/;"	p	class:NcVar	access:public	signature:( NcToken newname )
+rename	netcdfcpp.h	/^    virtual NcBool rename( NcToken newname ) = 0;$/;"	p	class:NcTypedComponent	access:public	signature:( NcToken newname )
+set_cur	netcdfcpp.h	/^    NcBool set_cur(long c0=-1, long c1=-1, long c2=-1,$/;"	p	class:NcVar	access:public	signature:(long c0=-1, long c1=-1, long c2=-1, long c3=-1, long c4=-1)
+set_cur	netcdfcpp.h	/^    NcBool set_cur(long* cur);$/;"	p	class:NcVar	access:public	signature:(long* cur)
+set_err	netcdfcpp.h	/^    static int set_err( int err );$/;"	p	class:NcError	access:public	signature:( int err )
+set_fill	netcdfcpp.h	/^    NcBool set_fill( FillMode = Fill );    \/\/ set fill-mode$/;"	p	class:NcFile	access:public	signature:( FillMode = Fill )
+set_rec	netcdfcpp.h	/^    void set_rec ( NcDim* d, long slice );$/;"	p	class:NcVar	access:public	signature:( NcDim* d, long slice )
+set_rec	netcdfcpp.h	/^    void set_rec ( long rec );$/;"	p	class:NcVar	access:public	signature:( long rec )
+silent_fatal	netcdfcpp.h	/^        silent_fatal = 1,$/;"	e	enum:NcError::Behavior
+silent_nonfatal	netcdfcpp.h	/^        silent_nonfatal = 0,$/;"	e	enum:NcError::Behavior
+size	netcdfcpp.h	/^    long size( void ) const;$/;"	p	class:NcDim	access:public	signature:( void ) const
+sync	netcdfcpp.h	/^    NcBool sync( void );                   \/\/ synchronize to disk$/;"	p	class:NcFile	access:public	signature:( void )
+sync	netcdfcpp.h	/^    NcBool sync( void );$/;"	p	class:NcDim	access:public	signature:( void )
+sync	netcdfcpp.h	/^    NcBool sync( void );$/;"	p	class:NcVar	access:public	signature:( void )
+the_cur	netcdfcpp.h	/^    long* the_cur;$/;"	m	class:NcVar	access:private
+the_file	netcdfcpp.h	/^    NcFile *the_file;		\/\/ not const because of rename$/;"	m	class:NcDim	access:private
+the_file	netcdfcpp.h	/^    NcFile *the_file;$/;"	m	class:NcTypedComponent	access:protected
+the_fill_mode	netcdfcpp.h	/^    FillMode the_fill_mode;$/;"	m	class:NcFile	access:protected
+the_id	netcdfcpp.h	/^    int the_id;$/;"	m	class:NcDim	access:private
+the_id	netcdfcpp.h	/^    int the_id;$/;"	m	class:NcFile	access:protected
+the_id	netcdfcpp.h	/^    int the_id;$/;"	m	class:NcVar	access:private
+the_name	netcdfcpp.h	/^    char *the_name;$/;"	m	class:NcDim	access:private
+the_name	netcdfcpp.h	/^    char* the_name;$/;"	m	class:NcAtt	access:private
+the_name	netcdfcpp.h	/^    char* the_name;$/;"	m	class:NcVar	access:private
+the_number	ncvalues.h	/^    long the_number;$/;"	m	class:NcValues	access:protected
+the_old_err	netcdfcpp.h	/^    int the_old_err;$/;"	m	class:NcError	access:private
+the_old_state	netcdfcpp.h	/^    int the_old_state;$/;"	m	class:NcError	access:private
+the_type	ncvalues.h	/^    NcType the_type;$/;"	m	class:NcValues	access:protected
+the_variable	netcdfcpp.h	/^    const NcVar* the_variable;$/;"	m	class:NcAtt	access:private
+type	netcdfcpp.h	/^    NcType type( void ) const;$/;"	p	class:NcAtt	access:public	signature:( void ) const
+type	netcdfcpp.h	/^    NcType type( void ) const;$/;"	p	class:NcVar	access:public	signature:( void ) const
+type	netcdfcpp.h	/^    virtual NcType type( void ) const = 0;$/;"	p	class:NcTypedComponent	access:public	signature:( void ) const
+values	netcdfcpp.h	/^    NcValues* values( void ) const;     \/\/ all values$/;"	p	class:NcVar	access:public	signature:( void ) const
+values	netcdfcpp.h	/^    NcValues* values( void ) const;$/;"	p	class:NcAtt	access:public	signature:( void ) const
+values	netcdfcpp.h	/^    virtual NcValues* values( void ) const = 0; \/\/ block of all values$/;"	p	class:NcTypedComponent	access:public	signature:( void ) const
+variables	netcdfcpp.h	/^    NcVar** variables;$/;"	m	class:NcFile	access:protected
+verbose_fatal	netcdfcpp.h	/^        verbose_fatal = 3   $/;"	e	enum:NcError::Behavior
+verbose_nonfatal	netcdfcpp.h	/^        verbose_nonfatal = 2,$/;"	e	enum:NcError::Behavior
+year	libcf.h	/^	 long 		year;		     \/* Year *\/$/;"	m	struct:__anon2	access:public
+~NcAtt	netcdfcpp.h	/^    virtual ~NcAtt( void );$/;"	p	class:NcAtt	access:public	signature:( void )
+~NcDim	netcdfcpp.h	/^    virtual ~NcDim( void );$/;"	p	class:NcDim	access:private	signature:( void )
+~NcError	netcdfcpp.h	/^    virtual ~NcError( void );$/;"	p	class:NcError	access:public	signature:( void )
+~NcFile	netcdfcpp.h	/^    virtual ~NcFile( void );$/;"	p	class:NcFile	access:public	signature:( void )
+~NcTypedComponent	netcdfcpp.h	/^    virtual ~NcTypedComponent( void ) {}$/;"	f	class:NcTypedComponent	access:public	signature:( void )
+~NcValues	ncvalues.h	/^    virtual ~NcValues( void );$/;"	p	class:NcValues	access:public	signature:( void )
+~NcVar	netcdfcpp.h	/^    virtual ~NcVar( void );$/;"	p	class:NcVar	access:public	signature:( void )
