@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<license>
+<feature name="MaxCompiler_core">
+<owner>Maxeler Technologies</owner>
+<expiry clock="system" enforce="error">2013-01-15</expiry>
+<sig>302c02142a7bfc9ddd80dc2672b895518a4149cc614d39e102145d336e651c661ac51fac681570208db947234258</sig>
+</feature>
+<feature name="MaxGenFD">
+<owner>Maxeler Technologies</owner>
+<expiry clock="system" enforce="error">2013-01-15</expiry>
+<sig>302c021474382d9b4d277b1c74e704430b2607d7d21350e40214649d4472abd2c7be538662a135516e93bb9d5732</sig>
+</feature>
+<feature name="MaxTCP">
+<owner>Maxeler Technologies</owner>
+<expiry clock="system" enforce="error">2013-01-15</expiry>
+<sig>302c02146c1f2187d1b91215fe8049f4b7f32f4065ad0e3c02147493913bd0d880831e3943b82d7aa95f0d32867d</sig>
+</feature>
+</license>

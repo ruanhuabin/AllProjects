@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<license>
+<feature name="MaxGenFD_beta">
+<owner>Maxeler</owner>
+<version>2010.1</version>
+<expiry clock="system" enforce="error">2010-08-01</expiry>
+<sig>302d02142900f06db12e6f061f34142942733061a3687f450215008a95aa2393640fc27a7f91b797410eafda9a0555</sig>
+</feature>
+</license>

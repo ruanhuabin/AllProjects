@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<license>
+<feature name="MaxCompiler_core">
+<owner>Maxeler Technologies</owner>
+<expiry clock="system" enforce="warning">2012-01-15</expiry>
+<sig>302c02142e34942bf3696ed75aeed642b7cf1f0a1f7ba24e021470a4c21fd658c9abb8e1b5d6a4c9e8c4c1526bfb</sig>
+</feature>
+</license>

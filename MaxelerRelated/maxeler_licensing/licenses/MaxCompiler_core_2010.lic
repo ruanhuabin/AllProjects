@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<license>
+<feature name="MaxCompiler_core">
+<owner>Maxeler Internal</owner>
+<version>2010</version>
+<expiry clock="system" enforce="warning">2011-01-15</expiry>
+<sig>302c02145fe10fd84582a0a803b82f29984d87ba0be669a402147d446ba4349cba7008ddfcaaee75686bcd924b8c</sig>
+</feature>
+</license>

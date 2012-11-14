@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<license>
+<feature name="MaxTCP">
+<owner>Maxeler Technologies</owner>
+<expiry clock="system" enforce="warning">2012-01-15</expiry>
+<sig>302c02146f2dae808648a65febb6b2bc44b99029b94c3eef02145b0aa427c24931794b6d694a7a1139e6130d0305</sig>
+</feature>
+</license>
